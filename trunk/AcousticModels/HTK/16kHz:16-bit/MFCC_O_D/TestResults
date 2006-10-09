@@ -1,0 +1,61 @@
+A. HTK TEST RESULTS:
+
+$ HVite -A -D -T 1 -H macros -H hmmdefs -C config -S test.scp -l '*' -i recout.mlf -w  wdnet -p 0.0 -s 5.0 ../lexicon/voxforge_lexicon tied list
+HVite -A -D -T 1 -H macros -H hmmdefs -C config -S te st.scp -l * -i recout.mlf -w wdnet -p 0.0 -s 5.0 ../l exicon/voxforge_lexicon tiedlist
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 4272 physical / 5964 logical HMMs
+Read lattice with 22 nodes / 45 arcs
+Created network with 75 nodes / 98 links
+[...]
+
+$ HResults -I testref.mlf tiedlist recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Sep 26 22:55:49 2006
+  Ref : testref.mlf
+  Rec : recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=56.00 [H=28, S=22, N=50]
+WORD: %Corr=97.88, Acc=72.49 [H=185, D=0, S=4, I=48, N=189]
+===================================================================
+
+JULIUS TEST RESULTS: 2 pass recognition???
+$ /usr/local/julius/julius-3.5-linuxbin/bin/julian-3.5-std -input rawfile -filelist wavlst -smpFreq 16000  -C julian.jconf  > juliusOutput
+[...]
+
+$ ./ProcessJuliusOutput.pl juliusOutput juliusProcessed
+$ HResults -I testref.mlf tiedlist juliusProcessed
+====================== HTK Results Analysis =======================
+  Date: Tue Sep 26 23:06:29 2006
+  Ref : testref.mlf
+  Rec : juliusProcessed
+------------------------ Overall Results --------------------------
+SENT: %Correct=38.00 [H=19, S=31, N=50]
+WORD: %Corr=87.30, Acc=29.10 [H=165, D=4, S=20, I=110, N=189]
+===================================================================
+
+JULIUS TEST RESULTS - 1st pass only
+$ /usr/local/julius/julius-3.5-linuxbin/bin/julian-3.5-std -input rawfile -filelist wavlst -smpFreq 16000 -1pass  -C julian.jconf  > juliusOutput
+$ ./ProcessJuliusOutput_1pass.pl juliusOutput juliusProcessed
+$ HResults -I testref.mlf tiedlist juliusProcessed 
+====================== HTK Results Analysis =======================
+  Date: Tue Sep 26 23:36:01 2006
+  Ref : testref.mlf
+  Rec : juliusProcessed
+------------------------ Overall Results --------------------------
+SENT: %Correct=46.00 [H=23, S=27, N=50]
+WORD: %Corr=95.77, Acc=68.25 [H=181, D=8, S=0, I=52, N=189]
+===================================================================
+
