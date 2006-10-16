@@ -1,23 +1,29 @@
 A               [A]             ax sp
 ABALON          [ABALON]        ae b ax l ow n sp
 ABANDONMENT     [ABANDONMENT]   ax b ae n d ax n m ax n t sp
+ABC'S           [ABC'S]         ae b iy s iy s sp
 ABDOMINALS      [ABDOMINALS]    ae b d aa m ax n ax l z sp
 ABERDEEN        [ABERDEEN]      ae b er d iy n sp
 ABILENE         [ABILENE]       ae b ix l iy n sp
 ABLE            [ABLE]          ey b ax l sp
 ABNORMAL        [ABNORMAL]      ae b n ao r m ax l sp
+ABNORMALLY      [ABNORMALLY]    ae b n ao r m ax l iy sp
 ABOLISH         [ABOLISH]       ax b aa l ix sh sp
 ABOUNDING       [ABOUNDING]     ax b aw n d ix ng sp
 ABOUT           [ABOUT]         ax b aw t sp
+ABOVE           [ABOVE]         ax b ah v sp
 ABSTRACTIONS    [ABSTRACTIONS]  ae b s t r ae k sh ax n z sp
 ABSURDITY       [ABSURDITY]     ax b s er dx ax dx iy sp
 ABU             [ABU]           ae b uw sp
 ABUNDANCE       [ABUNDANCE]     ax b ah n d ax n s sp
 ACCELERATED     [ACCELERATED]   ae k s eh l er ey dx ix d sp
 ACCEPT          [ACCEPT]        ae k s eh p t sp
+ACCEPTED        [ACCEPTED]      ae k s eh p t ix d sp
 ACCESSORIES     [ACCESSORIES]   ae k s eh s er iy z sp
 ACCIDENTAL      [ACCIDENTAL]    ae k s ax d eh n t ax l sp
+ACCOMPANY       [ACCOMPANY]     ax k ah m p ax n iy sp
 ACCORDANCE      [ACCORDANCE]    ax k ao r d ax n s sp
+ACCORDING       [ACCORDING]     ax k ao r dx ix ng sp
 ACCORDINGLY     [ACCORDINGLY]   ax k ao r dx ix ng l iy sp
 ACCOUNT         [ACCOUNT]       ax k aw n t sp
 ACCOUNTING      [ACCOUNTING]    ax k aw n t ix ng sp
@@ -37,6 +43,7 @@ ADAPTABLE       [ADAPTABLE]     ax d ae p t ax b ax l sp
 ADDED           [ADDED]         ae dx ax d sp
 ADELAIDE        [ADELAIDE]      ae dx ax l ey d sp
 ADJECTIVES      [ADJECTIVES]    ae jh ix k t ix v z sp
+ADMINISTERED    [ADMINISTERED]  ax d m ih n ax s t er d sp
 ADMIRAL         [ADMIRAL]       ae d m er ax l sp
 ADRIFT          [ADRIFT]        ax d r ih f t sp
 ADVANCE         [ADVANCE]       ax d v ae n s sp
@@ -182,6 +189,7 @@ APART           [APART]         ax p aa r t sp
 APOLOGIZE       [APOLOGIZE]     ax p aa l ax jh ay z sp
 APOLOGIZED      [APOLOGIZED]    ax p aa l ax jh ay z d sp
 APOSTROPHE      [APOSTROPHE]    ax p aa s t r ax f iy sp
+APPARENTLY      [APPARENTLY]    ax p eh r ax n t l iy sp
 APPEALED        [APPEALED]      ax p iy l d sp
 APPEAR          [APPEAR]        ax p ih r sp
 APPEARANCE      [APPEARANCE]    ax p ih r ax n s sp
@@ -195,6 +203,7 @@ APRIL           [APRIL]         ey p r ax l sp
 APRON           [APRON]         ey p r ax n sp
 ARAB            [ARAB]          ae r ax b sp
 ARCATA          [ARCATA]        aa r k aa dx ax sp
+ARCH            [ARCH]          aa r ch sp
 ARCHIBALD       [ARCHIBALD]     aa r ch ax b ao l d sp
 ARE             [ARE]           aa r sp
 AREA            [AREA]          eh r iy ax sp
@@ -206,6 +215,7 @@ ARGUED          [ARGUED]        aa r g y uw d sp
 ARGUING         [ARGUING]       aa r g y uw ix ng sp
 ARGUMENT        [ARGUMENT]      aa r g y ax m ax n t sp
 ARGUMENTS       [ARGUMENTS]     aa r g y ax m ax n t s sp
+ARISTOTLE       [ARISTOTLE]     eh r ax s t aa dx ax l sp
 ARIZONA         [ARIZONA]       eh r ix z ow n ax sp
 ARKANSAS        [ARKANSAS]      aa r k ax n s aa sp
 ARM             [ARM]           aa r m sp
@@ -224,6 +234,7 @@ ARRIVING        [ARRIVING]      er ay v ix ng sp
 ARROW           [ARROW]         ae r ow sp
 ARROWS          [ARROWS]        ae r ow z sp
 ARTHRITIS       [ARTHRITIS]     aa r th r ay dx ax s sp
+ARTHUR          [ARTHUR]        aa r th er sp
 ARTICULATE      [ARTICULATE]    aa r t ih k y ax l ey t sp
 ARTISTIC        [ARTISTIC]      aa r t ih s t ix k sp
 ARTISTS         [ARTISTS]       aa r dx ax s t s sp
@@ -261,8 +272,10 @@ ATTEMPTING      [ATTEMPTING]    ax t eh m p t ix ng sp
 ATTITUDE        [ATTITUDE]      ae dx ax t uw d sp
 AUCKLAND        [AUCKLAND]      aa k l ax n d sp
 AUDACIOUS       [AUDACIOUS]     aa d ey sh ax s sp
+AUDIO           [AUDIO]         aa dx iy ow sp
 AUGUST          [AUGUST]        aa g ax s t sp
 AUGUSTA         [AUGUSTA]       ax g ah s t ax sp
+AUNT            [AUNT]          ae n t sp
 AURORA          [AURORA]        er ao r ax sp
 AUSPICIOUS      [AUSPICIOUS]    aa s p ih sh ax s sp
 AUSTERE         [AUSTERE]       ao s t ih r sp
@@ -297,6 +310,7 @@ BALANCE         [BALANCE]       b ae l ax n s sp
 BALLS           [BALLS]         b ao l z sp
 BALTIMORE       [BALTIMORE]     b ao l t ax m ao r sp
 BANCROFT        [BANCROFT]      b ae ng k r ao f t sp
+BAND            [BAND]          b ae n d sp
 BANG            [BANG]          b ae ng sp
 BANGKOK         [BANGKOK]       b ae ng k aa k sp
 BANGOR          [BANGOR]        b ae ng g er sp
@@ -312,11 +326,13 @@ BARED           [BARED]         b eh r d sp
 BARELY          [BARELY]        b eh r l iy sp
 BARGAINS        [BARGAINS]      b aa r g ax n z sp
 BARKED          [BARKED]        b aa r k t sp
+BARN            [BARN]          b aa r n sp
 BASE            [BASE]          b ey s sp
 BASEL           [BASEL]         b aa z ax l sp
 BASS            [BASS]          b ae s sp
 BASSETT         [BASSETT]       b ae s ix t sp
 BATH            [BATH]          b ae th sp
+BATHE           [BATHE]         b ey dh sp
 BATTLE          [BATTLE]        b ae dx ax l sp
 BAY             [BAY]           b ey sp
 BE              [BE]            b iy sp
@@ -389,12 +405,15 @@ BILL            [BILL]          b ih l sp
 BILLINGER       [BILLINGER]     b ih l ix ng er sp
 BILLY           [BILLY]         b ih l iy sp
 BIOLOGISTS      [BIOLOGISTS]    b ay aa l ax jh ax s t s sp
+BIRD            [BIRD]          b er d sp
+BIRDS           [BIRDS]         b er d z sp
 BIRMINGHAM      [BIRMINGHAM]    b er m ix ng hh ae m sp
 BISMARCK        [BISMARCK]      b ih z m aa r k sp
 BIT             [BIT]           b ih t sp
 BITTEN          [BITTEN]        b ih t ax n sp
 BIZARRE         [BIZARRE]       b ax z aa r sp
 BLACK           [BLACK]         b l ae k sp
+BLADE           [BLADE]         b l ey d sp
 BLAME           [BLAME]         b l ey m sp
 BLATANT         [BLATANT]       b l ey t ax n t sp
 BLESS           [BLESS]         b l eh s sp
@@ -404,12 +423,15 @@ BLIND           [BLIND]         b l ay n d sp
 BLOCK           [BLOCK]         b l aa k sp
 BLOOD           [BLOOD]         b l ah d sp
 BLOT            [BLOT]          b l aa t sp
+BLUE            [BLUE]          b l uw sp
+BOARD           [BOARD]         b ao r d sp
 BOAT            [BOAT]          b ow t sp
 BOB             [BOB]           b aa b sp
 BODY            [BODY]          b aa dx iy sp
 BOGOTA          [BOGOTA]        b ow g ax t aa sp
 BOHEMIAN        [BOHEMIAN]      b ow hh iy m iy ax n sp
 BOILED          [BOILED]        b oy l d sp
+BOILING         [BOILING]       b oy l ix ng sp
 BOISE           [BOISE]         b oy z iy sp
 BOMBAY          [BOMBAY]        b aa m b ey sp
 BONANZA         [BONANZA]       b ax n ae n z ax sp
@@ -432,6 +454,8 @@ BOUNDARIES      [BOUNDARIES]    b aw n d er iy z sp
 BOURGEOIS       [BOURGEOIS]     b uh r zh w aa sp
 BOW             [BOW]           b aw sp
 BOWED           [BOWED]         b aw d sp
+BOWL            [BOWL]          b ow l sp
+BOWS            [BOWS]          b aw z sp
 BOX             [BOX]           b aa k s sp
 BOY             [BOY]           b oy sp
 BOYS            [BOYS]          b oy z sp
@@ -511,6 +535,7 @@ CABIN           [CABIN]         k ae b ax n sp
 CAIRO           [CAIRO]         k ay r ow sp
 CALCULATED      [CALCULATED]    k ae l k y ax l ey dx ax d sp
 CALCUTTA        [CALCUTTA]      k ae l k ah dx ax sp
+CALF            [CALF]          k ae f sp
 CALGARY         [CALGARY]       k ae l g er iy sp
 CALIFORNIA      [CALIFORNIA]    k ae l ax f ao r n y ax sp
 CALL            [CALL]          k ao l sp
@@ -519,6 +544,7 @@ CALLED          [CALLED]        k ao l d sp
 CALLING         [CALLING]       k ao l ix ng sp
 CALLS           [CALLS]         k ao l z sp
 CALM            [CALM]          k aa m sp
+CALMLY          [CALMLY]        k aa m l iy sp
 CALVIN          [CALVIN]        k ae l v ax n sp
 CAME            [CAME]          k ey m sp
 CAMERON         [CAMERON]       k ae m er ax n sp
@@ -535,10 +561,12 @@ CANCELLED       [CANCELLED]     k ae n s ax l d sp
 CANCUN          [CANCUN]        k ae ng k ax n sp
 CANDIDATE       [CANDIDATE]     k ae n d ax dx ey t sp
 CANDIDATES      [CANDIDATES]    k ae n d ax dx ey t s sp
+CANE            [CANE]          k ey n sp
 CANE-GRASS      [CANE-GRASS]    k ey n g r ae s sp
 CANNIBAL        [CANNIBAL]      k ae n ax b ax l sp
 CANNOT          [CANNOT]        k ae n aa t sp
 CANOE           [CANOE]         k ax n uw sp
+CANT            [CANT]          k ae n t sp
 CANVAS          [CANVAS]        k ae n v ax s sp
 CANYON          [CANYON]        k ae n y ax n sp
 CANYONS         [CANYONS]       k ae n y ax n z sp
@@ -580,12 +608,14 @@ CATCH           [CATCH]         k ae ch sp
 CATHAY          [CATHAY]        k ae th ey sp
 CAUGHT          [CAUGHT]        k aa t sp
 CAUSED          [CAUSED]        k aa z d sp
+CAUSES          [CAUSES]        k aa z ax z sp
 CAUTION         [CAUTION]       k aa sh ax n sp
 CAUTIOUSLY      [CAUTIOUSLY]    k ao sh ax s l iy sp
 CAVES           [CAVES]         k ey v z sp
 CENTER          [CENTER]        s eh n t er sp
 CENTRALESDE     [CENTRALESDE]   s eh n t r aa l ey z d sp
 CENTS           [CENTS]         s eh n t s sp
+CENTURIES       [CENTURIES]     s eh n ch er iy z sp
 CENTURY         [CENTURY]       s eh n ch er iy sp
 CERTAIN         [CERTAIN]       s er t ax n sp
 CERTAINLY       [CERTAINLY]     s er t ax n l iy sp
@@ -624,6 +654,7 @@ CHAUNCEY        [CHAUNCEY]      ch ao n s iy sp
 CHEAP           [CHEAP]         ch iy p sp
 CHEAPER         [CHEAPER]       ch iy p er sp
 CHEAPEST        [CHEAPEST]      ch iy p ax s t sp
+CHECKED         [CHECKED]       ch eh k t sp
 CHEER           [CHEER]         ch ih r sp
 CHEERFUL        [CHEERFUL]      ch ih r f ax l sp
 CHEMICAL        [CHEMICAL]      k eh m ax k ax l sp
@@ -694,6 +725,7 @@ CLUTCHED        [CLUTCHED]      k l ah ch t sp
 CLUTCHING       [CLUTCHING]     k l ah ch ix ng sp
 COACH           [COACH]         k ow ch sp
 COAL            [COAL]          k ow l sp
+COARSELY        [COARSELY]      k ao r s l iy sp
 COAST           [COAST]         k ow s t sp
 COAT            [COAT]          k ow t sp
 COBB            [COBB]          k aa b sp
@@ -714,6 +746,8 @@ COLONY          [COLONY]        k aa l ax n iy sp
 COLOR           [COLOR]         k ah l er sp
 COLORADO        [COLORADO]      k aa l er aa dx ow sp
 COLORATION      [COLORATION]    k ah l er ey sh ax n sp
+COLORED         [COLORED]       k ah l er d sp
+COLORS          [COLORS]        k ah l er z sp
 COLT            [COLT]          k ow l t sp
 COLUMBIA        [COLUMBIA]      k ax l ah m b iy ax sp
 COLUMBUS        [COLUMBUS]      k ax l ah m b ax s sp
@@ -724,6 +758,7 @@ COMES           [COMES]         k ah m z sp
 COMFORT         [COMFORT]       k ah m f er t sp
 COMFORTABLY     [COMFORTABLY]   k ah m f er dx ax b l iy sp
 COMING          [COMING]        k ah m ix ng sp
+COMMA           [COMMA]         k aa m ax sp
 COMMAND         [COMMAND]       k ax m ae n d sp
 COMMANDED       [COMMANDED]     k ax m ae n d ax d sp
 COMMANDS        [COMMANDS]      k ax m ae n d z sp
@@ -747,6 +782,7 @@ COMPLAIN        [COMPLAIN]      k ax m p l ey n sp
 COMPLETE        [COMPLETE]      k ax m p l iy t sp
 COMPLETED       [COMPLETED]     k ax m p l iy dx ax d sp
 COMPLETELY      [COMPLETELY]    k ax m p l iy t l iy sp
+COMPLICATED     [COMPLICATED]   k aa m p l ax k ey dx ax d sp
 COMPOSED        [COMPOSED]      k ax m p ow z d sp
 COMPOUND        [COMPOUND]      k aa m p aw n d sp
 CONCERNED       [CONCERNED]     k ax n s er n d sp
@@ -758,6 +794,7 @@ CONFERRING      [CONFERRING]    k ax n f er ix ng sp
 CONFESSED       [CONFESSED]     k ax n f eh s t sp
 CONFIDE         [CONFIDE]       k ax n f ay d sp
 CONFIDENCE      [CONFIDENCE]    k aa n f ax d ax n s sp
+CONFIRMED       [CONFIRMED]     k ax n f er m d sp
 CONFUSED        [CONFUSED]      k ax n f y uw z d sp
 CONJURED        [CONJURED]      k aa n jh er d sp
 CONKLIN         [CONKLIN]       k aa ng k l ix n sp
@@ -770,6 +807,7 @@ CONQUER         [CONQUER]       k aa ng k er sp
 CONRAD          [CONRAD]        k aa n r ae d sp
 CONSCIOUSNESS   [CONSCIOUSNESS] k aa n sh ax s n ax s sp
 CONSEQUENT      [CONSEQUENT]    k aa n s ax k w ax n t sp
+CONSIDERABLY    [CONSIDERABLY]  k ax n s ih dx er ax b l iy sp
 CONSIDERED      [CONSIDERED]    k ax n s ih dx er d sp
 CONSIDERING     [CONSIDERING]   k ax n s ih dx er ix ng sp
 CONSTANTINIDES  [CONSTANTINIDES] k ax n s t ae n t ix n iy d iy z sp
@@ -807,6 +845,7 @@ CORRECT         [CORRECT]       k er eh k t sp
 CORRECTED       [CORRECTED]     k er eh k t ax d sp
 CORRECTION      [CORRECTION]    k er eh k sh ax n sp
 CORRY           [CORRY]         k ao r iy sp
+COST            [COST]          k aa s t sp
 COSTUME         [COSTUME]       k aa s t uw m sp
 COTTONWOODS     [COTTONWOODS]   k aa t ax n w uh d z sp
 COULD           [COULD]         k uh d sp
@@ -820,6 +859,7 @@ COUNTY          [COUNTY]        k aw n t iy sp
 COUPLE          [COUPLE]        k ah p ax l sp
 COURSE          [COURSE]        k ao r s sp
 COURTYARD       [COURTYARD]     k ao r t y aa r d sp
+COW             [COW]           k aw sp
 CRACK           [CRACK]         k r ae k sp
 CRADLE          [CRADLE]        k r ey dx ax l sp
 CRASH           [CRASH]         k r ae sh sp
@@ -849,6 +889,7 @@ CUBE            [CUBE]          k y uw b sp
 CULTURE         [CULTURE]       k ah l ch er sp
 CUMULATIVE      [CUMULATIVE]    k y uw m y ax l ax dx ix v sp
 CUNNING         [CUNNING]       k ah n ix ng sp
+CURE            [CURE]          k y uh r sp
 CURING          [CURING]        k y uh r ix ng sp
 CURIOSITY       [CURIOSITY]     k y uh r iy aa s ax dx iy sp
 CURIOUS         [CURIOUS]       k y uh r iy ax s sp
@@ -931,12 +972,15 @@ DEPART          [DEPART]        d ix p aa r t sp
 DEPARTING       [DEPARTING]     d ix p aa r dx ix ng sp
 DEPARTS         [DEPARTS]       d ix p aa r t s sp
 DEPARTURE       [DEPARTURE]     d ix p aa r ch er sp
+DEPENDS         [DEPENDS]       d ix p eh n d z sp
 DEPEW           [DEPEW]         d ax p y uw sp
 DEPORTATION     [DEPORTATION]   d iy p ao r t ey sh ax n sp
 DEPOT           [DEPOT]         d iy p ow sp
 DEPTH           [DEPTH]         d eh p th sp
+DERIVATIVE      [DERIVATIVE]    d er ih v ax dx ix v sp
 DES             [DES]           d eh sp
 DESERT          [DESERT]        d eh z er t sp
+DESERTED        [DESERTED]      d ix z er dx ix d sp
 DESIRE          [DESIRE]        d ix z ay er sp
 DESTINATION     [DESTINATION]   d eh s t ax n ey sh ax n sp
 DESTINATIONS    [DESTINATIONS]  d eh s t ax n ey sh ax n z sp
@@ -957,6 +1001,7 @@ DEVISED         [DEVISED]       d ix v ay z d sp
 DEVOTION        [DEVOTION]      d ix v ow sh ax n sp
 DEXTER          [DEXTER]        d eh k s t er sp
 DHABI           [DHABI]         d aa b iy sp
+DIAGNOSIS       [DIAGNOSIS]     d ay ax g n ow s ax s sp
 DIAL            [DIAL]          d ay ax l sp
 DIALOG          [DIALOG]        d ay ax l ao g sp
 DIAMETER        [DIAMETER]      d ay ae m ax dx er sp
@@ -966,6 +1011,7 @@ DIDN'T          [DIDN'T]        d ih d ax n t sp
 DIE             [DIE]           d ay sp
 DIED            [DIED]          d ay d sp
 DIEGO           [DIEGO]         d ix ey g ow sp
+DIFFERENCE      [DIFFERENCE]    d ih f er ax n s sp
 DIFFERENT       [DIFFERENT]     d ih f er ax n t sp
 DIFFICULTY      [DIFFICULTY]    d ih f ax k ax l t iy sp
 DIG             [DIG]           d ih g sp
@@ -1002,6 +1048,7 @@ DISPUTE         [DISPUTE]       d ix s p y uw t sp
 DISTANCE        [DISTANCE]      d ih s t ax n s sp
 DISTINGUISHES   [DISTINGUISHES] d ix s t ih ng g w ix sh ix z sp
 DISTRESSED      [DISTRESSED]    d ix s t r eh s t sp
+DISTRICT        [DISTRICT]      d ih s t r ix k t sp
 DISTURB         [DISTURB]       d ix s t er b sp
 DIVERGENCE      [DIVERGENCE]    d ay v er jh ax n s sp
 DIVERSION       [DIVERSION]     d ay v er zh ax n sp
@@ -1036,6 +1083,7 @@ DOUBLING        [DOUBLING]      d ah b ax l ix ng sp
 DOUBLY          [DOUBLY]        d ah b l iy sp
 DOUBT           [DOUBT]         d aw t sp
 DOUBTLESS       [DOUBTLESS]     d aw t l ax s sp
+DOUGLAS         [DOUGLAS]       d ah g l ax s sp
 DOWN            [DOWN]          d aw n sp
 DOWNTOWN        [DOWNTOWN]      d aw n t aw n sp
 DOZEN           [DOZEN]         d ah z ax n sp
@@ -1048,11 +1096,13 @@ DRAWN           [DRAWN]         d r ao n sp
 DREADFULLY      [DREADFULLY]    d r eh d f ax l iy sp
 DREAMS          [DREAMS]        d r iy m z sp
 DRENCHED        [DRENCHED]      d r eh n ch t sp
+DRESS           [DRESS]         d r eh s sp
 DRESSED         [DRESSED]       d r eh s t sp
 DREW            [DREW]          d r uw sp
 DRIPPING        [DRIPPING]      d r ih p ix ng sp
 DRIVER          [DRIVER]        d r ay v er sp
 DROPPED         [DROPPED]       d r aa p t sp
+DROPS           [DROPS]         d r aa p s sp
 DROUGHT         [DROUGHT]       d r aw t sp
 DROWNED         [DROWNED]       d r aw n d sp
 DROWNING        [DROWNING]      d r aw n ix ng sp
@@ -1064,6 +1114,7 @@ DUALITY         [DUALITY]       d uw ae l ax dx iy sp
 DUBAI           [DUBAI]         d uw b ay sp
 DUBLIN          [DUBLIN]        d ah b l ix n sp
 DUCKS           [DUCKS]         d ah k s sp
+DUKE            [DUKE]          d uw k sp
 DULLES          [DULLES]        d ah l ax s sp
 DULUTH          [DULUTH]        d ax l uw th sp
 DUNBAR          [DUNBAR]        d ah n b aa r sp
@@ -1105,9 +1156,12 @@ EDGES           [EDGES]         eh jh ax z sp
 EDINBURGH       [EDINBURGH]     eh d ax n b er ow sp
 EDITORIAL       [EDITORIAL]     eh dx ax t ao r iy ax l sp
 EDMONTON        [EDMONTON]      eh d m ax n t ax n sp
+EE              [EE]            iy sp
 EFFECT          [EFFECT]        ix f eh k t sp
+EFFECTIVE       [EFFECTIVE]     ix f eh k t ix v sp
 EFFICIENTLY     [EFFICIENTLY]   ix f ih sh ax n t l iy sp
 EFFORT          [EFFORT]        eh f er t sp
+EFFORTS         [EFFORTS]       eh f er t s sp
 EGG             [EGG]           eh g sp
 EGGSHELL        [EGGSHELL]      eh g sh eh l sp
 EGO             [EGO]           iy g ow sp
@@ -1119,6 +1173,7 @@ EIGHTH          [EIGHTH]        ey t th sp
 EIGHTY          [EIGHTY]        ey dx iy sp
 EILEEN          [EILEEN]        ay l iy n sp
 EILEEN'S        [EILEEN'S]      ay l iy n z sp
+EITHER          [EITHER]        iy dh er sp
 EL              [EL]            eh l sp
 ELABORATED      [ELABORATED]    ix l ae b er ey dx ax d sp
 ELAINE          [ELAINE]        ix l ey n sp
@@ -1131,6 +1186,7 @@ ELEVENTH        [ELEVENTH]      ix l eh v ax n th sp
 ELI             [ELI]           iy l ay sp
 ELIJAH          [ELIJAH]        eh l ay jh ax sp
 ELKO            [ELKO]          eh l k ow sp
+ELM             [ELM]           eh l m sp
 ELMER           [ELMER]         eh l m er sp
 ELMIRA          [ELMIRA]        eh l m ay r ax sp
 ELONGATED       [ELONGATED]     ix l ao ng g ey dx ax d sp
@@ -1156,6 +1212,7 @@ ENCOURAGE       [ENCOURAGE]     eh n k er ix jh sp
 ENCOURAGED      [ENCOURAGED]    eh n k er ix jh d sp
 END             [END]           eh n d sp
 ENDOWMENT       [ENDOWMENT]     eh n d aw m ax n t sp
+ENDS            [ENDS]          eh n d z sp
 ENDURE          [ENDURE]        eh n d y uh r sp
 ENDURED         [ENDURED]       eh n d y uh r d sp
 ENEMIES         [ENEMIES]       eh n ax m iy z sp
@@ -1181,6 +1238,7 @@ ERIC            [ERIC]          eh r ix k sp
 ERIE            [ERIE]          ih r iy sp
 ERNEST          [ERNEST]        er n ax s t sp
 ERNEST'S        [ERNEST'S]      er n ax s t s sp
+ERNESTS         [ERNESTS]       er n ax s t s sp
 ERRATIC         [ERRATIC]       ix r ae dx ix k sp
 ERROR           [ERROR]         eh r er sp
 ERWIN           [ERWIN]         er w ix n sp
@@ -1192,6 +1250,7 @@ ESTABLISHED     [ESTABLISHED]   ix s t ae b l ix sh t sp
 ESTABLISHMENT   [ESTABLISHMENT] ix s t ae b l ix sh m ax n t sp
 ETC             [ETC]           eh t s eh dx er ax sp
 ETHEL           [ETHEL]         eh th ax l sp
+ETHER           [ETHER]         iy th er sp
 ETHICS          [ETHICS]        eh th ix k s sp
 EUGENE          [EUGENE]        y uw jh iy n sp
 EURASIAN        [EURASIAN]      y uh r ey zh ix n sp
@@ -1221,12 +1280,14 @@ EXHAUSTED       [EXHAUSTED]     ix g z ao s t ax d sp
 EXISTENCE       [EXISTENCE]     eh g z ih s t ax n s sp
 EXISTS          [EXISTS]        ix g z ih s t s sp
 EXIT            [EXIT]          eh g z ix t sp
+EXPECT          [EXPECT]        ix k s p eh k t sp
 EXPECTANCY      [EXPECTANCY]    ix k s p eh k t ax n s iy sp
 EXPECTED        [EXPECTED]      ix k s p eh k t ax d sp
 EXPENSIVE       [EXPENSIVE]     ix k s p eh n s ix v sp
 EXPERIENCE      [EXPERIENCE]    ix k s p ih r iy ax n s sp
 EXPLAIN         [EXPLAIN]       ix k s p l ey n sp
 EXPLAINED       [EXPLAINED]     ix k s p l ey n d sp
+EXPLANATION     [EXPLANATION]   eh k s p l ax n ey sh ax n sp
 EXPLOSION       [EXPLOSION]     ix k s p l ow zh ax n sp
 EXPOTEL         [EXPOTEL]       ix k s p ow t eh l sp
 EXPRESS         [EXPRESS]       ix k s p r eh s sp
@@ -1244,6 +1305,7 @@ FACTOR'S        [FACTORS]       f ae k t er z sp
 FACTS           [FACTS]         f ae k t s sp
 FAILED          [FAILED]        f ey l d sp
 FAINTLY         [FAINTLY]       f ey n t l iy sp
+FAIR            [FAIR]          f eh r sp
 FAIRBANKS       [FAIRBANKS]     f eh r b ax ng k s sp
 FAIRFIELD       [FAIRFIELD]     f eh r f iy l d sp
 FAIRLY          [FAIRLY]        f eh r l iy sp
@@ -1272,6 +1334,7 @@ FAT             [FAT]           f ae t sp
 FATE            [FATE]          f ey t sp
 FATHER          [FATHER]        f aa dh er sp
 FATHER'S        [FATHER'S]      f aa dh er z sp
+FATHERS         [FATHERS]       f aa dh er z sp
 FATHOM          [FATHOM]        f ae dh ax m sp
 FAULT           [FAULT]         f ao l t sp
 FAVOR           [FAVOR]         f ey v er sp
@@ -1311,8 +1374,10 @@ FILL            [FILL]          f ih l sp
 FILLED          [FILLED]        f ih l d sp
 FILLING         [FILLING]       f ih l ix ng sp
 FINALITY        [FINALITY]      f ay n ae l ax dx iy sp
+FINALLY         [FINALLY]       f ay n ax l iy sp
 FIND            [FIND]          f ay n d sp
 FINDING         [FINDING]       f ay n d ix ng sp
+FINDS           [FINDS]         f ay n d z sp
 FINE            [FINE]          f ay n sp
 FINGER          [FINGER]        f ih ng g er sp
 FINGERS         [FINGERS]       f ih ng g er z sp
@@ -1340,12 +1405,14 @@ FLASH           [FLASH]         f l ae sh sp
 FLASHES         [FLASHES]       f l ae sh ix z sp
 FLASHING        [FLASHING]      f l ae sh ix ng sp
 FLAT            [FLAT]          f l ae t sp
+FLEECE          [FLEECE]        f l iy s sp
 FLESH           [FLESH]         f l eh sh sp
 FLESH-POTS      [FLESH-POTS]    f l eh sh p aa t s sp
 FLEW            [FLEW]          f l uw sp
 FLIGHT          [FLIGHT]        f l ay t sp
 FLIGHTS         [FLIGHTS]       f l ay t s sp
 FLINT           [FLINT]         f l ih n t sp
+FLOODS          [FLOODS]        f l ah d z sp
 FLOOR           [FLOOR]         f l ao r sp
 FLORIDA         [FLORIDA]       f l ao r ax dx ax sp
 FLOWER          [FLOWER]        f l aw er sp
@@ -1385,11 +1452,14 @@ FOREMAN         [FOREMAN]       f ao r m ax n sp
 FOREMOST        [FOREMOST]      f ao r m ow s t sp
 FORESAW         [FORESAW]       f ao r s ao sp
 FOREST          [FOREST]        f ao r ax s t sp
+FORETELL        [FORETELL]      f ao r t eh l sp
 FOREVER         [FOREVER]       f er eh v er sp
 FORGET          [FORGET]        f er g eh t sp
 FORGOT          [FORGOT]        f er g aa t sp
 FORGOTTEN       [FORGOTTEN]     f er g aa t ax n sp
 FORM            [FORM]          f ao r m sp
+FORMAT          [FORMAT]        f ao r m ae t sp
+FORMED          [FORMED]        f ao r m d sp
 FORSYTH         [FORSYTH]       f ao r s ay th sp
 FORT            [FORT]          f ao r t sp
 FORTH           [FORTH]         f ao r th sp
@@ -1414,6 +1484,7 @@ FRAUD           [FRAUD]         f r ao d sp
 FREDERKING      [FREDERKING]    f r eh dx er k ih ng sp
 FREE            [FREE]          f r iy sp
 FREED           [FREED]         f r iy d sp
+FREELY          [FREELY]        f r iy l iy sp
 FREIGHT         [FREIGHT]       f r ey t sp
 FRESH           [FRESH]         f r eh sh sp
 FRESHLY         [FRESHLY]       f r eh sh l iy sp
@@ -1436,6 +1507,7 @@ FUNK            [FUNK]          f ah ng k sp
 FUR             [FUR]           f er sp
 FURS            [FURS]          f er z sp
 FURTHER         [FURTHER]       f er dh er sp
+FUTILE          [FUTILE]        f y uw dx ax l sp
 FUTURE          [FUTURE]        f y uw ch er sp
 G               [G]             jh iy sp
 GABRIEL         [GABRIEL]       g ey b r iy ax l sp
@@ -1446,6 +1518,7 @@ GALLINA         [GALLINA]       g aa l iy n ax sp
 GAME            [GAME]          g ey m sp
 GANG            [GANG]          g ae ng sp
 GARB            [GARB]          g aa r b sp
+GARDEN          [GARDEN]        g aa r d ax n sp
 GARDENS         [GARDENS]       g aa r d ax n z sp
 GARY            [GARY]          g eh r iy sp
 GATEWAY         [GATEWAY]       g ey t w ey sp
@@ -1463,11 +1536,13 @@ GENERAL         [GENERAL]       jh eh n er ax l sp
 GENERATION      [GENERATION]    jh eh n er ey sh ax n sp
 GENIUS          [GENIUS]        jh iy n y ax s sp
 GENTLEMEN       [GENTLEMEN]     jh eh n t ax l m ix n sp
+GENTLY          [GENTLY]        jh eh n t l iy sp
 GENUINE         [GENUINE]       jh eh n y ax w ax n sp
 GEORGE          [GEORGE]        jh ao r jh sp
 GEORGIA         [GEORGIA]       jh ao r jh ax sp
 GERMANY         [GERMANY]       jh er m ax n iy sp
 GET             [GET]           g eh t sp
+GETS            [GETS]          g eh t s sp
 GHOST           [GHOST]         g ow s t sp
 GIANT           [GIANT]         jh ay ax n t sp
 GIGANTIC        [GIGANTIC]      jh ay g ae n t ix k sp
@@ -1490,7 +1565,9 @@ GLOOM           [GLOOM]         g l uw m sp
 GLORIOUS        [GLORIOUS]      g l ao r iy ax s sp
 GLOW            [GLOW]          g l ow sp
 GO              [GO]            g ow sp
+GOAT            [GOAT]          g ow t sp
 GOD             [GOD]           g aa d sp
+GODS            [GODS]          g aa d z sp
 GODSEND         [GODSEND]       g aa d s eh n d sp
 GOING           [GOING]         g ow ix ng sp
 GOLD            [GOLD]          g ow l d sp
@@ -1502,6 +1579,8 @@ GOODBY          [GOODBY]        g uh d b ay sp
 GOODBYE         [GOODBYE]       g uh d b ay sp
 GOODS           [GOODS]         g uh d z sp
 GOOSE           [GOOSE]         g uw s sp
+GOOSE'S         [GOOSE'S]       g uw s ax z sp
+GOOSES          [GOOSES]        g uw s ax z sp
 GOPI            [GOPI]          g ow b iy sp
 GOSH            [GOSH]          g aa sh sp
 GOT             [GOT]           g aa t sp
@@ -1514,6 +1593,7 @@ GRADUATED       [GRADUATED]     g r ae jh uw ey dx ix d sp
 GRAIN           [GRAIN]         g r ey n sp
 GRAN            [GRAN]          g r ae n sp
 GRAND           [GRAND]         g r ae n d sp
+GRASS           [GRASS]         g r ae s sp
 GRAVEL          [GRAVEL]        g r ae v ax l sp
 GRAY            [GRAY]          g r ey sp
 GREAT           [GREAT]         g r ey t sp
@@ -1521,6 +1601,7 @@ GREATER         [GREATER]       g r ey dx er sp
 GREATLY         [GREATLY]       g r ey t l iy sp
 GREECE          [GREECE]        g r iy s sp
 GREEK           [GREEK]         g r iy k sp
+GREEKS          [GREEKS]        g r iy k s sp
 GREEN           [GREEN]         g r iy n sp
 GREENSBORO      [GREENSBORO]    g r iy n z b er r ow sp
 GREENVILLE      [GREENVILLE]    g r iy n v ix l sp
@@ -1621,6 +1702,7 @@ HE              [HE]            hh iy sp
 HE'LL           [HE'LL]         hh iy l sp
 HE'S            [HE'S]          hh iy z sp
 HEAD            [HEAD]          hh eh d sp
+HEADED          [HEADED]        hh eh dx ax d sp
 HEADS           [HEADS]         hh eh d z sp
 HEALTHFUL       [HEALTHFUL]     hh eh l th f ax l sp
 HEAR            [HEAR]          hh ih r sp
@@ -1633,8 +1715,10 @@ HEAT            [HEAT]          hh iy t sp
 HEATHROW        [HEATHROW]      hh iy th r ow sp
 HEAVENS         [HEAVENS]       hh eh v ax n z sp
 HEAVY           [HEAVY]         hh eh v iy sp
+HEBREWS         [HEBREWS]       hh iy b r uw z sp
 HEEL            [HEEL]          hh iy l sp
 HELD            [HELD]          hh eh l d sp
+HELEN           [HELEN]         hh eh l ax n sp
 HELL            [HELL]          hh eh l sp
 HELLO           [HELLO]         hh ax l ow sp
 HELMET          [HELMET]        hh eh l m ax t sp
@@ -1673,6 +1757,7 @@ HITTING         [HITTING]       hh ih dx ix ng sp
 HMMM            [HMMM]          hh m sp
 HOIST           [HOIST]         hh oy s t sp
 HOLD            [HOLD]          hh ow l d sp
+HOLE            [HOLE]          hh ow l sp
 HOLIDAY         [HOLIDAY]       hh aa l ax d ey sp
 HOLIDAYS        [HOLIDAYS]      hh aa l ax d ey z sp
 HOLLYWOOD       [HOLLYWOOD]     hh aa l iy w uh d sp
@@ -1682,11 +1767,15 @@ HOMESICK        [HOMESICK]      hh ow m s ih k sp
 HOMESTEAD       [HOMESTEAD]     hh ow m s t eh d sp
 HONG            [HONG]          hh ao ng sp
 HONOLULU        [HONOLULU]      hh aa n ax l uw l uw sp
+HONOROF         [HONOROF]       aa n er ao f sp
 HOOD            [HOOD]          hh uh d sp
 HOOFS           [HOOFS]         hh uh f s sp
 HOPE            [HOPE]          hh ow p sp
 HOPKINS         [HOPKINS]       hh aa p k ix n z sp
+HORIZON         [HORIZON]       hh er ay z ax n sp
 HORRIFIED       [HORRIFIED]     hh ao r ax f ay d sp
+HORROR          [HORROR]        hh ao r er sp
+HORSE           [HORSE]         hh ao r s sp
 HORSES          [HORSES]        hh ao r s ax z sp
 HOSTILITIES     [HOSTILITIES]   hh aa s t ih l ax dx iy z sp
 HOT             [HOT]           hh aa t sp
@@ -1699,6 +1788,7 @@ HOUGHTON        [HOUGHTON]      hh ao t ax n sp
 HOUR            [HOUR]          aw er sp
 HOURS           [HOURS]         aw er z sp
 HOUSE           [HOUSE]         hh aw s sp
+HOUSES          [HOUSES]        hh aw s ax z sp
 HOUSTON         [HOUSTON]       hh y uw s t ax n sp
 HOW             [HOW]           hh aw sp
 HOWARD          [HOWARD]        hh aw er d sp
@@ -1706,6 +1796,7 @@ HOWEVER         [HOWEVER]       hh aw eh v er sp
 HOWISON         [HOWISON]       hh aw ix s ax n sp
 HUBBELL         [HUBBELL]       hh ah b ax l sp
 HUDSON          [HUDSON]        hh ah d s ax n sp
+HUGE            [HUGE]          hh y uw jh sp
 HUGHIE          [HUGHIE]        hh y uw iy sp
 HUM             [HUM]           hh ah m sp
 HUMAN           [HUMAN]         hh y uw m ax n sp
@@ -1751,16 +1842,21 @@ IDENTIFIED      [IDENTIFIED]    ay d eh n t ax f ay d sp
 IF              [IF]            ih f sp
 IGNORING        [IGNORING]      ix g n ao r ix ng sp
 ILENE           [ILENE]         ih l iy n sp
+ILL             [ILL]           ih l sp
 ILLINOIS        [ILLINOIS]      ih l ax n oy sp
 ILLUMINATING    [ILLUMINATING]  ix l uw m ax n ey dx ix ng sp
 ILLUSION        [ILLUSION]      ix l uw zh ax n sp
+IM              [IM]            ih m sp
 IMAGINE         [IMAGINE]       ix m ae jh ax n sp
 IMAGINING       [IMAGINING]     ix m ae jh ax n ix ng sp
 IMMACULATE      [IMMACULATE]    ix m ae k y uw l ix t s sp
+IMMEDIATELY     [IMMEDIATELY]   ix m iy dx iy ax t l iy sp
 IMMERSION       [IMMERSION]     ix m er zh ax n sp
 IMMORTAL        [IMMORTAL]      ix m ao r dx ax l sp
 IMPERIAL        [IMPERIAL]      ix m p ih r iy ax l sp
+IMPLIED         [IMPLIED]       ix m p l ay d sp
 IMPORT          [IMPORT]        ix m p ao r t sp
+IMPOSITION      [IMPOSITION]    ih m p ax z ih sh ax n sp
 IMPOSSIBLE      [IMPOSSIBLE]    ix m p aa s ax b ax l sp
 IMPRESSION      [IMPRESSION]    ix m p r eh sh ax n sp
 IMPROVE         [IMPROVE]       ix m p r uw v sp
@@ -1777,6 +1873,7 @@ INCOME          [INCOME]        ih n k ah m sp
 INCONVENIENCE   [INCONVENIENCE] ih n k ax n v iy n y ax n s sp
 INCORPORATED    [INCORPORATED]  ix n k ao r p er ey dx ax d sp
 INCORRECT       [INCORRECT]     ix n k er eh k t sp
+INCREASES       [INCREASES]     ix n k r iy s ax z sp
 INCREASING      [INCREASING]    ix n k r iy s ix ng sp
 INCUBATION      [INCUBATION]    ih ng k y uw b ey sh ax n sp
 INDEED          [INDEED]        ix n d iy d sp
@@ -1842,6 +1939,7 @@ ISTANBUL        [ISTANBUL]      ih s t aa n b uw l sp
 IT              [IT]            ih t sp
 IT'S            [IT'S]          ih t s sp
 ITALIAN         [ITALIAN]       ix t ae l y ax n sp
+ITCHY           [ITCHY]         ih ch iy sp
 ITHACA          [ITHACA]        ih th ax k ax sp
 ITINERARIES     [ITINERARIES]   ay t ih n er eh r iy z sp
 ITINERARY       [ITINERARY]     ay t ih n er eh r iy sp
@@ -1851,6 +1949,7 @@ IVORY           [IVORY]         ay v er iy sp
 IZMIR           [IZMIR]         ih z m ih r sp
 J               [J]             jh ey sp
 JACK            [JACK]          jh ae k sp
+JACKET          [JACKET]        jh ae k ax t sp
 JACKSON         [JACKSON]       jh ae k s ax n sp
 JACKSONVILLE    [JACKSONVILLE]  jh ae k s ax n v ih l sp
 JACOB           [JACOB]         jh ey k ax b sp
@@ -1892,7 +1991,9 @@ JOHN            [JOHN]          jh aa n sp
 JOHNNY          [JOHNNY]        jh aa n iy sp
 JOHNSON         [JOHNSON]       jh aa n s ax n sp
 JOHNSONS        [JOHNSONS]      jh aa n s ax n z sp
+JOIN            [JOIN]          jh oy n sp
 JOINED          [JOINED]        jh oy n d sp
+JOISTS          [JOISTS]        jh oy s t s sp
 JOKING          [JOKING]        jh ow k ix ng sp
 JONES           [JONES]         jh ow n z sp
 JOPLIN          [JOPLIN]        jh aa p l ix n sp
@@ -1936,6 +2037,7 @@ KENNEL          [KENNEL]        k eh n ax l sp
 KENNETH         [KENNETH]       k eh n ix th sp
 KENTUCKY        [KENTUCKY]      k ax n t ah k iy sp
 KENYA           [KENYA]         k eh n y ax sp
+KEPT            [KEPT]          k eh p t sp
 KERFOOT'S       [KERFOOT'S]     k er f uh t s sp
 KERRY           [KERRY]         k eh r iy sp
 KEVIN           [KEVIN]         k eh v ix n sp
@@ -1946,9 +2048,11 @@ KILL            [KILL]          k ih l sp
 KILLED          [KILLED]        k ih l d sp
 KILLEEN         [KILLEEN]       k ix l iy n sp
 KILLS           [KILLS]         k ih l z sp
+KINDLY          [KINDLY]        k ay n d l iy sp
 KING            [KING]          k ih ng sp
 KINGDOM         [KINGDOM]       k ih ng d ax m sp
 KINSTON         [KINSTON]       k ih n s t ax n sp
+KIT             [KIT]           k ih t sp
 KNEE            [KNEE]          n iy sp
 KNEW            [KNEW]          n uw sp
 KNIFE           [KNIFE]         n ay f sp
@@ -1998,6 +2102,7 @@ LAUNCHED        [LAUNCHED]      l ao n ch t sp
 LAW             [LAW]           l ao sp
 LAWS            [LAWS]          l ao z sp
 LAWTON          [LAWTON]        l ao t ax n sp
+LAWYER          [LAWYER]        l ao y er sp
 LAY             [LAY]           l ey sp
 LAYOVER         [LAYOVER]       l ey ow v er sp
 LE              [LE]            l ax sp
@@ -2016,6 +2121,8 @@ LEDONNE         [LEDONNE]       l eh d ax n sp
 LEFT            [LEFT]          l eh f t sp
 LEG             [LEG]           l eh g sp
 LEGAL           [LEGAL]         l iy g ax l sp
+LEGEND          [LEGEND]        l eh jh ax n d sp
+LEGGED          [LEGGED]        l eh g ax d sp
 LEGHORNS        [LEGHORNS]      l eh g hh ao r n z sp
 LEISURE         [LEISURE]       l eh zh er sp
 LENGTH          [LENGTH]        l eh ng k th sp
@@ -2026,6 +2133,7 @@ LESS            [LESS]          l eh s sp
 LESSER          [LESSER]        l eh s er sp
 LET             [LET]           l eh t sp
 LET'S           [LET'S]         l eh t s sp
+LETS            [LETS]          l eh t s sp
 LETTER          [LETTER]        l eh dx er sp
 LEVIN           [LEVIN]         l eh v ix n sp
 LEXINGTON       [LEXINGTON]     l eh k s ix ng t ax n sp
@@ -2046,6 +2154,7 @@ LIHUE           [LIHUE]         l iy hh y uw eh sp
 LIKE            [LIKE]          l ay k sp
 LIKELY          [LIKELY]        l ay k l iy sp
 LIKEWISE        [LIKEWISE]      l ay k w ay z sp
+LIKING          [LIKING]        l ay k ix ng sp
 LIMITS          [LIMITS]        l ih m ax t s sp
 LINCOLN         [LINCOLN]       l ih ng k ax n sp
 LINDERMAN       [LINDERMAN]     l ay n d er m ax n sp
@@ -2069,6 +2178,7 @@ LOCKED          [LOCKED]        l aa k t sp
 LODGE           [LODGE]         l aa jh sp
 LOEHR           [LOEHR]         l ao r sp
 LOEWS           [LOEWS]         l ow z sp
+LOFT            [LOFT]          l ao f t sp
 LOG             [LOG]           l ao g sp
 LOGAN           [LOGAN]         l ow g ax n sp
 LOIN            [LOIN]          l oy n sp
@@ -2107,6 +2217,7 @@ LUBBOCK         [LUBBOCK]       l ah b ax k sp
 LUFTHANSA       [LUFTHANSA]     l ax f t ae n z ax sp
 LUGO            [LUGO]          l uw g ow sp
 LUIS            [LUIS]          l uw iy s sp
+LUNATIC         [LUNATIC]       l uw n ax t ih k sp
 LUSH            [LUSH]          l ah sh sp
 LUST            [LUST]          l ah s t sp
 LUXOR           [LUXOR]         l ah k s er sp
@@ -2132,6 +2243,7 @@ MAGAZINE        [MAGAZINE]      m ae g ax z iy n sp
 MAGNIFICENT     [MAGNIFICENT]   m ae g n ih f ax s ax n t sp
 MAIL            [MAIL]          m ey l sp
 MAINE           [MAINE]         m ey n sp
+MAINLY          [MAINLY]        m ey n l iy sp
 MAINTAIN        [MAINTAIN]      m ey n t ey n sp
 MAINTAINED      [MAINTAINED]    m ey n t ey n d sp
 MAJOR           [MAJOR]         m ey jh er sp
@@ -2168,6 +2280,7 @@ MARRIOTT        [MARRIOTT]      m eh r iy ax t sp
 MARSEILLE       [MARSEILLE]     m aa r s ay l sp
 MARTHA          [MARTHA]        m aa r th ax sp
 MARTIN          [MARTIN]        m aa r t ax n sp
+MARY            [MARY]          m eh r iy sp
 MARYLAND        [MARYLAND]      m eh r ax l ax n d sp
 MASS            [MASS]          m ae s sp
 MASSACHUSETTS   [MASSACHUSETTS] m ae s ax ch uw s ax t s sp
@@ -2189,6 +2302,7 @@ MC              [MC]            m ix k sp
 MCCORMICK       [MCCORMICK]     m ax k ao r m ix k sp
 MCCOY           [MCCOY]         m ax k oy sp
 MCCRAW          [MCCRAW]        m ax k r ao sp
+MCCULLOUGH      [MCCULLOUGH]    m ax k ah l ax sp
 MCFEE'S         [MCFEE'S]       m ax k f iy z sp
 MCVEIGH         [MCVEIGH]       m ax k v ey sp
 ME              [ME]            m iy sp
@@ -2201,6 +2315,7 @@ MEASURED        [MEASURED]      m eh zh er d sp
 MEAT            [MEAT]          m iy t sp
 MEDFORD         [MEDFORD]       m eh d f er d sp
 MEDICAL         [MEDICAL]       m eh dx ax k ax l sp
+MEDICINE        [MEDICINE]      m eh dx ax s ax n sp
 MEET            [MEET]          m iy t sp
 MEETING         [MEETING]       m iy dx ix ng sp
 MELBOURNE       [MELBOURNE]     m eh l b er n sp
@@ -2218,6 +2333,7 @@ MERE            [MERE]          m ih r sp
 MERELY          [MERELY]        m ih r l iy sp
 MERIDIAN        [MERIDIAN]      m er ih dx iy ax n sp
 MERRY           [MERRY]         m eh r iy sp
+MESS            [MESS]          m eh s sp
 MESSAGE         [MESSAGE]       m eh s ax jh sp
 MET             [MET]           m eh t sp
 METAL           [METAL]         m eh dx ax l sp
@@ -2246,6 +2362,7 @@ MILAN           [MILAN]         m ax l aa n sp
 MILE            [MILE]          m ay l sp
 MILES           [MILES]         m ay l z sp
 MILLER          [MILLER]        m ih l er sp
+MILLIONAIRE     [MILLIONAIRE]   m ih l y ax n eh r sp
 MILWAUKEE       [MILWAUKEE]     m ix l w ao k iy sp
 MIND            [MIND]          m ay n d sp
 MINDS           [MINDS]         m ay n d z sp
@@ -2258,6 +2375,7 @@ MINUTES         [MINUTES]       m ih n ax t s sp
 MIRABEL         [MIRABEL]       m ix r aa b eh l sp
 MIRACLE         [MIRACLE]       m ih r ax k ax l sp
 MIRAGE          [MIRAGE]        m er aa zh sp
+MIRROR          [MIRROR]        m ih r er sp
 MIRTH           [MIRTH]         m er th sp
 MISDEMEANOR     [MISDEMEANOR]   m ih s d ax m iy n er sp
 MISHEARD        [MISHEARD]      m ih s hh er d sp
@@ -2268,6 +2386,7 @@ MISSISSIPPI     [MISSISSIPPI]   m ih s ix s ih p iy sp
 MISSOURI        [MISSOURI]      m ax z uh r iy sp
 MISTAKE         [MISTAKE]       m ix s t ey k sp
 MITCHELL        [MITCHELL]      m ih ch ax l sp
+MIXED           [MIXED]         m ih k s t sp
 MOB             [MOB]           m aa b sp
 MOCKERY         [MOCKERY]       m aa k er iy sp
 MODERATE        [MODERATE]      m aa dx er ax t sp
@@ -2290,6 +2409,7 @@ MONTH           [MONTH]         m ah n th sp
 MONTREAL        [MONTREAL]      m ah n t r iy ao l sp
 MOON            [MOON]          m uw n sp
 MOORE           [MOORE]         m uh r sp
+MOOSE           [MOOSE]         m uw s sp
 MOOSE-BIRDS     [MOOSE-BIRDS]   m uw s b er d z sp
 MOPS            [MOPS]          m aa p s sp
 MORE            [MORE]          m ao r sp
@@ -2337,6 +2457,7 @@ NAKATA          [NAKATA]        n aa k aa dx ax sp
 NAKATA'S        [NAKATA'S]      n aa k aa dx ax z sp
 NAME            [NAME]          n ey m sp
 NAME'S          [NAME'S]        n ey m z sp
+NAMED           [NAMED]         n ey m d sp
 NANTUCKET       [NANTUCKET]     n ae n t ah k ix t sp
 NAOMI           [NAOMI]         n ey ow m iy sp
 NARITA          [NARITA]        n eh r iy dx ax sp
@@ -2364,6 +2485,7 @@ NEEDING         [NEEDING]       n iy dx ix ng sp
 NEEDLE          [NEEDLE]        n iy dx ax l sp
 NEEDS           [NEEDS]         n iy d z sp
 NEITHER         [NEITHER]       n iy dh er sp
+NELLY           [NELLY]         n eh l iy sp
 NERVOUS         [NERVOUS]       n er v ax s sp
 NETWORK         [NETWORK]       n eh t w er k sp
 NEVADA          [NEVADA]        n ax v aa dx ax sp
@@ -2405,6 +2527,8 @@ NOON            [NOON]          n uw n sp
 NOPE            [NOPE]          n ow p sp
 NOR             [NOR]           n ao r sp
 NORFOLK         [NORFOLK]       n ao r f ax k sp
+NORMALLY        [NORMALLY]      n ao r m ax l iy sp
+NORSEMEN        [NORSEMEN]      n ao r s m ix n sp
 NORTH           [NORTH]         n ao r th sp
 NORTHERN        [NORTHERN]      n ao r dh er n sp
 NORTHWEST       [NORTHWEST]     n ao r th w eh s t sp
@@ -2413,11 +2537,13 @@ NOTE            [NOTE]          n ow t sp
 NOTED           [NOTED]         n ow dx ax d sp
 NOTHING         [NOTHING]       n ah th ix ng sp
 NOTICED         [NOTICED]       n ow dx ax s t sp
+NOTIFICATION    [NOTIFICATION]  n ow dx ax f ax k ey sh ax n sp
 NOVEL           [NOVEL]         n aa v ax l sp
 NOVEMBER        [NOVEMBER]      n ow v eh m b er sp
 NOW             [NOW]           n aw sp
 NOWHERE         [NOWHERE]       n ow w eh r sp
 NUMBER          [NUMBER]        n ah m b er sp
+NURSE           [NURSE]         n er s sp
 NURSERY         [NURSERY]       n er s er iy sp
 NYBERG          [NYBERG]        n ay b er g sp
 O               [O]             ow sp
@@ -2435,6 +2561,7 @@ OBEYED          [OBEYED]        ow b ey d sp
 OBEYS           [OBEYS]         ow b ey z sp
 OBISPO          [OBISPO]        ow b ih s p ow sp
 OBJECT          [OBJECT]        aa b jh eh k t sp
+OBRIEN          [OBRIEN]        ow b r ay ax n sp
 OBSERVE         [OBSERVE]       ax b z er v sp
 OBSERVED        [OBSERVED]      ax b z er v d sp
 OBTAIN          [OBTAIN]        ax b t ey n sp
@@ -2446,8 +2573,10 @@ OCCURRED        [OCCURRED]      ax k er d sp
 OCCURRING       [OCCURRING]     ax k er ix ng sp
 OCEAN           [OCEAN]         ow sh ax n sp
 OCTOBER         [OCTOBER]       aa k t ow b er sp
+ODD             [ODD]           aa d sp
 OF              [OF]            ah v sp
 OFF             [OFF]           ao f sp
+OFFICE          [OFFICE]        ao f ax s sp
 OFFICIAL        [OFFICIAL]      ax f ih sh ax l sp
 OFFSET          [OFFSET]        ao f s eh t sp
 OFTEN           [OFTEN]         ao f ax n sp
@@ -2492,6 +2621,7 @@ ORANGE          [ORANGE]        ao r ax n jh sp
 ORANGE-GREEN    [ORANGE-GREEN]  ao r ax n jh g r iy n sp
 ORDAINED        [ORDAINED]      ao r d ey n d sp
 ORDER           [ORDER]         ao r dx er sp
+ORDERED         [ORDERED]       ao r dx er d sp
 ORDERS          [ORDERS]        ao r dx er z sp
 OREGON          [OREGON]        ao r ax g ax n sp
 ORGANIC         [ORGANIC]       ao r g ae n ix k sp
@@ -2536,6 +2666,7 @@ OWE             [OWE]           ow sp
 OWL             [OWL]           aw l sp
 OWLS            [OWLS]          aw l z sp
 OWN             [OWN]           ow n sp
+OWNER           [OWNER]         ow n er sp
 OXNARD          [OXNARD]        aa k s n er d sp
 OYSTER          [OYSTER]        oy s t er sp
 OYSTERS         [OYSTERS]       oy s t er z sp
@@ -2581,6 +2712,7 @@ PASSENGER       [PASSENGER]     p ae s ax n jh er sp
 PASSIONATELY    [PASSIONATELY]  p ae sh ax n ax t l iy sp
 PAT             [PAT]           p ae t sp
 PATEL           [PATEL]         p ax t eh l sp
+PATH            [PATH]          p ae th sp
 PATHETIC        [PATHETIC]      p ax th eh dx ix k sp
 PATIENTLY       [PATIENTLY]     p ey sh ax n t l iy sp
 PATINO          [PATINO]        p aa t iy n ow sp
@@ -2590,6 +2722,7 @@ PAULO           [PAULO]         p ao l ow sp
 PAUSED          [PAUSED]        p ao z d sp
 PAW             [PAW]           p ao sp
 PAY             [PAY]           p ey sp
+PAYING          [PAYING]        p ey ix ng sp
 PEACE           [PEACE]         p iy s sp
 PEARCE'S        [PEARCE'S]      p ih r s z sp
 PEARSON         [PEARSON]       p ih r s ax n sp
@@ -2597,6 +2730,7 @@ PEASANT         [PEASANT]       p eh z ax n t sp
 PEBBLES         [PEBBLES]       p eh b ax l z sp
 PEELED          [PEELED]        p iy l d sp
 PENCIL          [PENCIL]        p eh n s ax l sp
+PENICILLIN      [PENICILLIN]    p eh n ax s ih l ax n sp
 PENNSYLVANIA    [PENNSYLVANIA]  p eh n s ax l v ey n y ax sp
 PENSACOLA       [PENSACOLA]     p eh n s ax k ow l ax sp
 PENT            [PENT]          p eh n t sp
@@ -2607,8 +2741,10 @@ PERFORMED       [PERFORMED]     p er f ao r m d sp
 PERFUME         [PERFUME]       p er f y uw m sp
 PERHAPS         [PERHAPS]       p er hh ae p s sp
 PERIOD          [PERIOD]        p ih r iy ax d sp
+PERMISSION      [PERMISSION]    p er m ih sh ax n sp
 PERPETUAL       [PERPETUAL]     p er p eh ch uw ax l sp
 PERRAULT        [PERRAULT]      p eh r ao l t sp
+PERRY           [PERRY]         p eh r iy sp
 PERSIAN         [PERSIAN]       p er zh ax n sp
 PERSISTENT      [PERSISTENT]    p er s ih s t ax n t sp
 PERSONIFICATION [PERSONIFICATION] p er s aa n ax f ax k ey sh ax n sp
@@ -2617,14 +2753,19 @@ PERVERSITY      [PERVERSITY]    p er v er s ax dx iy sp
 PETERBOROUGH    [PETERBOROUGH]  p iy dx er b er ow sp
 PETERSBURG      [PETERSBURG]    p iy dx er z b er g sp
 PETITIONED      [PETITIONED]    p ax t ih sh ax n d sp
+PHENOMENON      [PHENOMENON]    f ax n aa m ax n aa n sp
 PHIL            [PHIL]          f ih l sp
 PHILADELPHIA    [PHILADELPHIA]  f ih l ax d eh l f iy ax sp
 PHILIP          [PHILIP]        f ih l ax p sp
 PHILIP'S        [PHILIP'S]      f ih l ax p s sp
+PHILIPS         [PHILIPS]       f ih l ax p s sp
 PHILOSOPHIC     [PHILOSOPHIC]   f ih l ax s aa f ix k sp
 PHOENIX         [PHOENIX]       f iy n ix k s sp
 PHONE           [PHONE]         f ow n sp
 PHRASE          [PHRASE]        f r ey z sp
+PHYSICAL        [PHYSICAL]      f ih z ix k ax l sp
+PHYSICALLY      [PHYSICALLY]    f ih z ix k ax l iy sp
+PHYSICISTS      [PHYSICISTS]    f ih z ix s ix s t s sp
 PHYSIQUE        [PHYSIQUE]      f ax z iy k sp
 PIANO           [PIANO]         p iy ae n ow sp
 PICK            [PICK]          p ih k sp
@@ -2633,6 +2774,7 @@ PICTURE         [PICTURE]       p ih k ch er sp
 PIERRE          [PIERRE]        p iy eh r sp
 PIERRE'S        [PIERRE'S]      p iy eh r z sp
 PIKE            [PIKE]          p ay k sp
+PINE            [PINE]          p ay n sp
 PINES           [PINES]         p ay n z sp
 PIPE            [PIPE]          p ay p sp
 PIPES           [PIPES]         p ay p s sp
@@ -2680,6 +2822,7 @@ POODLE          [POODLE]        p uw dx ax l sp
 POOL            [POOL]          p uw l sp
 POOR            [POOR]          p uh r sp
 POPULAR         [POPULAR]       p aa p y ax l er sp
+PORRIDGE        [PORRIDGE]      p ao r ax jh sp
 PORT            [PORT]          p ao r t sp
 PORTLAND        [PORTLAND]      p ao r t l ax n d sp
 PORTUGUESE      [PORTUGUESE]    p ao r ch ax g iy z sp
@@ -2690,11 +2833,14 @@ POSSESSED       [POSSESSED]     p ax z eh s t sp
 POSSESSION      [POSSESSION]    p ax z eh sh ax n sp
 POSSIBLE        [POSSIBLE]      p aa s ax b ax l sp
 POSTPONE        [POSTPONE]      p ow s t p ow n sp
+POT             [POT]           p aa t sp
+POTS            [POTS]          p aa t s sp
 POUND           [POUND]         p aw n d sp
 POUNDED         [POUNDED]       p aw n d ix d sp
 POUNDS          [POUNDS]        p aw n d z sp
 POWER           [POWER]         p aw er sp
 POWERFUL        [POWERFUL]      p aw er f ax l sp
+PRACTICE        [PRACTICE]      p r ae k t ax s sp
 PRAGUE          [PRAGUE]        p r aa g sp
 PRATTLE         [PRATTLE]       p r ae dx ax l sp
 PRAYERS         [PRAYERS]       p r eh r z sp
@@ -2712,6 +2858,7 @@ PREPARED        [PREPARED]      p r iy p eh r d sp
 PREPOSTEROUS    [PREPOSTEROUS]  p r ix p aa s t er ax s sp
 PRESAGE         [PRESAGE]       p r eh s ix jh sp
 PRESENCE        [PRESENCE]      p r eh z ax n s sp
+PRESENT         [PRESENT]       p r eh z ax n t sp
 PRESIDENT       [PRESIDENT]     p r eh z ax d eh n t sp
 PRESQUE         [PRESQUE]       p r eh s k sp
 PRESSING        [PRESSING]      p r eh s ix ng sp
@@ -2727,11 +2874,15 @@ PRICING         [PRICING]       p r ay s ix ng sp
 PRIDE           [PRIDE]         p r ay d sp
 PRIMA           [PRIMA]         p r iy m ax sp
 PRIMARILY       [PRIMARILY]     p r ay m eh r ax l iy sp
+PRIMARY         [PRIMARY]       p r ay m eh r iy sp
 PRIMEVAL        [PRIMEVAL]      p r ay m iy v ax l sp
 PRINCESS        [PRINCESS]      p r ih n s eh s sp
 PRINCIPALLY     [PRINCIPALLY]   p r ih n s ix p l iy sp
+PRINT           [PRINT]         p r ih n t sp
 PRINTED         [PRINTED]       p r ih n t ax d sp
+PRISM           [PRISM]         p r ih z ax m sp
 PRITCHARD       [PRITCHARD]     p r ih ch er d sp
+PRIVATE         [PRIVATE]       p r ay v ax t sp
 PRIVILEGES      [PRIVILEGES]    p r ih v l ax jh ax z sp
 PROBLEM         [PROBLEM]       p r aa b l ax m sp
 PROCEEDED       [PROCEEDED]     p r ax s iy dx ax d sp
@@ -2755,6 +2906,7 @@ PROMINENCE      [PROMINENCE]    p r aa m ax n ax n s sp
 PROMISE         [PROMISE]       p r aa m ax s sp
 PROMISED        [PROMISED]      p r aa m ax s t sp
 PROMOTER'S      [PROMOTER'S]    p r ax m ow dx er z sp
+PROMOTERS       [PROMOTERS]     p r ax m ow dx er z sp
 PROMPTED        [PROMPTED]      p r aa m p t ax d sp
 PROMPTS         [PROMPTS]       p r aa m p t s sp
 PROPER          [PROPER]        p r aa p er sp
@@ -2769,6 +2921,7 @@ PROSTRATION     [PROSTRATION]   p r aa s t r ey sh ax n sp
 PROTECTION      [PROTECTION]    p r ax t eh k sh ax n sp
 PROTEGE         [PROTEGE]       p r ow dx ax zh ey sp
 PROVED          [PROVED]        p r uw v d sp
+PROVIDED        [PROVIDED]      p r ax v ay dx ax d sp
 PROVIDENCE      [PROVIDENCE]    p r aa v ax d ax n s sp
 PROVOCATEURS    [PROVOCATEURS]  p r aa v ax k ey t uw r z sp
 PROVOCATIVE     [PROVOCATIVE]   p r ow v aa k ax dx ix v sp
@@ -2779,6 +2932,7 @@ PUFFY           [PUFFY]         p ah f iy sp
 PULLED          [PULLED]        p uh l d sp
 PUMP            [PUMP]          p ah m p sp
 PUNISHED        [PUNISHED]      p ah n ix sh t sp
+PURPOSE         [PURPOSE]       p er p ax s sp
 PURPOSES        [PURPOSES]      p er p ax s ax z sp
 PURSUE          [PURSUE]        p er s uw sp
 PUT             [PUT]           p uh t sp
@@ -2807,11 +2961,17 @@ R               [R]             aa r sp
 RABBIT          [RABBIT]        r ae b ax t sp
 RACE            [RACE]          r ey s sp
 RADISSON        [RADISSON]      r ae dx ax s ax n sp
+RAFTERS         [RAFTERS]       r ae f t er z sp
 RAGE            [RAGE]          r ey jh sp
 RAIDED          [RAIDED]        r ey dx ix d sp
 RAIL            [RAIL]          r ey l sp
 RAILROAD        [RAILROAD]      r ey l r ow d sp
 RAILWAY         [RAILWAY]       r ey l w ey sp
+RAIN            [RAIN]          r ey n sp
+RAINBOW         [RAINBOW]       r ey n b ow sp
+RAINBOWS        [RAINBOWS]      r ey n b ow z sp
+RAINDROPS       [RAINDROPS]     r ey n d r aa p s sp
+RAINY           [RAINY]         r ey n iy sp
 RAISED          [RAISED]        r ey z d sp
 RAJ             [RAJ]           r aa zh sp
 RALEIGH         [RALEIGH]       r ao l iy sp
@@ -2827,9 +2987,12 @@ RAOUL           [RAOUL]         r aa uw l sp
 RAPID           [RAPID]         r ae p ax d sp
 RAPIDLY         [RAPIDLY]       r ae p ax d l iy sp
 RAPIDS          [RAPIDS]        r ae p ax d z sp
+RARE            [RARE]          r eh r sp
+RAT             [RAT]           r ae t sp
 RATE            [RATE]          r ey t sp
 RATES           [RATES]         r ey t s sp
 RATHER          [RATHER]        r ae dh er sp
+RATS            [RATS]          r ae t s sp
 RATTLED         [RATTLED]       r ae dx ax l d sp
 RAVI            [RAVI]          r aa v iy sp
 RAW             [RAW]           r aa sp
@@ -2850,6 +3013,7 @@ RECOGNIZING     [RECOGNIZING]   r eh k ax g n ay z ix ng sp
 RECOLLECTION    [RECOLLECTION]  r eh k ax l eh k sh ax n sp
 RECONCILED      [RECONCILED]    r eh k ax n s ay l d sp
 RECORDED        [RECORDED]      r ax k ao r dx ax d sp
+RECORDING       [RECORDING]     r ax k ao r dx ix ng sp
 RECOVER         [RECOVER]       r ix k ah v er sp
 RED             [RED]           r eh d sp
 RED-EYE         [RED-EYE]       r eh d ay sp
@@ -2858,6 +3022,8 @@ REDDING         [REDDING]       r eh dx ix ng sp
 REDDY           [REDDY]         r eh dx iy sp
 REDMOND         [REDMOND]       r eh d m ax n d sp
 REENTERED       [REENTERED]     r iy ih n t er d sp
+REFLECTION      [REFLECTION]    r ax f l eh k sh ax n sp
+REFRACTION      [REFRACTION]    r ax f r ae k sh ax n sp
 REFUGE          [REFUGE]        r eh f y uw jh sp
 REFUGEE         [REFUGEE]       r eh f y uw jh iy sp
 REFUSED         [REFUSED]       r ax f y uw z d sp
@@ -2869,6 +3035,7 @@ REGISTERED      [REGISTERED]    r eh jh ix s t er d sp
 REGRET          [REGRET]        r ax g r eh t sp
 REGULAR         [REGULAR]       r eh g y ax l er sp
 RELAXED         [RELAXED]       r ix l ae k s t sp
+RELAXING        [RELAXING]      r ix l ae k s ix ng sp
 RELEASED        [RELEASED]      r iy l iy s t sp
 RELIEF          [RELIEF]        r ix l iy f sp
 REMAIN          [REMAIN]        r ix m ey n sp
@@ -2888,16 +3055,19 @@ REPLY           [REPLY]         r ix p l ay sp
 REPORTS         [REPORTS]       r ix p ao r t s sp
 REPOSE          [REPOSE]        r iy p ow z sp
 REPRESENTATIVE  [REPRESENTATIVE] r eh p r ax z eh n t ax dx ix v sp
+REPRODUCED      [REPRODUCED]    r iy p r ax d uw s t sp
 REQUEST         [REQUEST]       r ix k w eh s t sp
 REQUESTED       [REQUESTED]     r ix k w eh s t ix d sp
 REQUESTS        [REQUESTS]      r ix k w eh s t s sp
 REQUIRE         [REQUIRE]       r iy k w ay er sp
+REQUIRED        [REQUIRED]      r iy k w ay er d sp
 RESEARCHERS     [RESEARCHERS]   r iy s er ch er z sp
 RESEMBLANCE     [RESEMBLANCE]   r ix z eh m b l ax n s sp
 RESEMBLED       [RESEMBLED]     r ix z eh m b ax l d sp
 RESEMBLES       [RESEMBLES]     r ix z eh m b ax l z sp
 RESERVATION     [RESERVATION]   r eh z er v ey sh ax n sp
 RESERVATIONS    [RESERVATIONS]  r eh z er v ey sh ax n z sp
+RESERVED        [RESERVED]      r ix z er v d sp
 RESET           [RESET]         r iy s eh t sp
 RESIDENCE       [RESIDENCE]     r eh z ix d ax n s sp
 RESIDENT        [RESIDENT]      r eh z ix d ax n t sp
@@ -2917,6 +3087,7 @@ RESTIVO         [RESTIVO]       r eh s t iy v ow sp
 RESTLESS        [RESTLESS]      r eh s t l ax s sp
 RESTON          [RESTON]        r eh s t ax n sp
 RESTRICTION     [RESTRICTION]   r iy s t r ih k sh ax n sp
+RESULT          [RESULT]        r ix z ah l t sp
 RESUMED         [RESUMED]       r ix z uw m d sp
 RETORTED        [RETORTED]      r iy t ao r dx ix d sp
 RETRIEVAL       [RETRIEVAL]     r ix t r iy v ax l sp
@@ -2949,6 +3120,7 @@ RIFLE           [RIFLE]         r ay f ax l sp
 RIFLE-SHOT      [RIFLE-SHOT]    r ay f ax l sh aa t sp
 RIFLES          [RIFLES]        r ay f ax l z sp
 RIGHT           [RIGHT]         r ay t sp
+RIGHTS          [RIGHTS]        r ay t s sp
 RING            [RING]          r ih ng sp
 RINGING         [RINGING]       r ih ng ix ng sp
 RIO             [RIO]           r iy ow sp
@@ -2977,6 +3149,7 @@ ROCHESTER       [ROCHESTER]     r aa ch eh s t er sp
 ROCK            [ROCK]          r aa k sp
 ROCKS           [ROCKS]         r aa k s sp
 ROCKY           [ROCKY]         r aa k iy sp
+RODE            [RODE]          r ow d sp
 RODEWAY         [RODEWAY]       r ow d w ey sp
 ROGERS          [ROGERS]        r aa jh er z sp
 ROLL            [ROLL]          r ow l sp
@@ -2995,6 +3168,7 @@ ROSE            [ROSE]          r ow z sp
 ROSENFELD       [ROSENFELD]     r ow z ax n f eh l d sp
 ROSWELL         [ROSWELL]       r aa s w eh l sp
 ROT             [ROT]           r aa t sp
+ROTTEN          [ROTTEN]        r aa t ax n sp
 ROUND           [ROUND]         r aw n d sp
 ROWE            [ROWE]          r ow sp
 ROYAL           [ROYAL]         r oy ax l sp
@@ -3038,6 +3212,7 @@ SANK            [SANK]          s ae ng k sp
 SANTA           [SANTA]         s ae n t ax sp
 SANTIAGO        [SANTIAGO]      s ae n t iy aa g ow sp
 SAO             [SAO]           s aw sp
+SARAH           [SARAH]         s eh r ax sp
 SARASOTA        [SARASOTA]      s eh r ax s ow dx ax sp
 SARCASTIC       [SARCASTIC]     s aa r k ae s t ix k sp
 SARCASTICALLY   [SARCASTICALLY] s aa r k ae s t ix k l iy sp
@@ -3068,6 +3243,7 @@ SCHOOLBOY       [SCHOOLBOY]     s k uw l b oy sp
 SCHOONER        [SCHOONER]      s k uw n er sp
 SCOTT           [SCOTT]         s k aa t sp
 SCOTTISH        [SCOTTISH]      s k aa dx ix sh sp
+SCOUTS          [SCOUTS]        s k aw t s sp
 SCRAP           [SCRAP]         s k r ae p sp
 SCRATCHED       [SCRATCHED]     s k r ae ch t sp
 SCREAMED        [SCREAMED]      s k r iy m d sp
@@ -3110,7 +3286,9 @@ SENSITIVENESS   [SENSITIVENESS] s eh n s ax dx ix v n ax s sp
 SENT            [SENT]          s eh n t sp
 SENT-END        []              sil
 SENT-START      []              sil
+SENTENCE        [SENTENCE]      s eh n t ax n s sp
 SENTIMENT       [SENTIMENT]     s eh n t ax m ax n t sp
+SENTIMENTAL     [SENTIMENTAL]   s eh n t ax m eh n t ax l sp
 SEOUL           [SEOUL]         s ow l sp
 SEPARATED       [SEPARATED]     s eh p er ey dx ax d sp
 SEPTEMBER       [SEPTEMBER]     s eh p t eh m b er sp
@@ -3136,6 +3314,7 @@ SHAKEN          [SHAKEN]        sh ey k ax n sp
 SHAKING         [SHAKING]       sh ey k ix ng sp
 SHALL           [SHALL]         sh ae l sp
 SHANGHAI        [SHANGHAI]      sh ae ng hh ay sp
+SHAPE           [SHAPE]         sh ey p sp
 SHAPED          [SHAPED]        sh ey p t sp
 SHARE           [SHARE]         sh eh r sp
 SHARED          [SHARED]        sh eh r d sp
@@ -3161,6 +3340,7 @@ SHIELD          [SHIELD]        sh iy l d sp
 SHINING         [SHINING]       sh ay n ix ng sp
 SHIP            [SHIP]          sh ih p sp
 SHIPS           [SHIPS]         sh ih p s sp
+SHIRK           [SHIRK]         sh er k sp
 SHIRT           [SHIRT]         sh er t sp
 SHOEMAKER       [SHOEMAKER]     sh uw m ey k er sp
 SHOOK           [SHOOK]         sh uh k sp
@@ -3182,6 +3362,7 @@ SHOUTED         [SHOUTED]       sh aw dx ax d sp
 SHOVED          [SHOVED]        sh ah v d sp
 SHOW            [SHOW]          sh ow sp
 SHOWED          [SHOWED]        sh ow d sp
+SHOWING         [SHOWING]       sh ow ix ng sp
 SHOWN           [SHOWN]         sh ow n sp
 SHREVEPORT      [SHREVEPORT]    sh r iy v p ao r t sp
 SHREWDLY        [SHREWDLY]      sh r uw d l iy sp
@@ -3259,6 +3440,7 @@ SNARL           [SNARL]         s n aa r l sp
 SNATCHED        [SNATCHED]      s n ae ch t sp
 SNORTING        [SNORTING]      s n ao r dx ix ng sp
 SNOWY           [SNOWY]         s n ow iy sp
+SNUG            [SNUG]          s n ah g sp
 SO              [SO]            s ow sp
 SOAKED          [SOAKED]        s ow k t sp
 SOB             [SOB]           s aa b sp
@@ -3275,6 +3457,7 @@ SOLICITUDE      [SOLICITUDE]    s ax l ih s ix t uw d sp
 SOLOMON         [SOLOMON]       s aa l ax m ax n sp
 SOLUTIONS       [SOLUTIONS]     s ax l uw sh ax n z sp
 SOME            [SOME]          s ah m sp
+SOMERVILLE      [SOMERVILLE]    s ah m er v ih l sp
 SOMETHING       [SOMETHING]     s ah m th ix ng sp
 SOMETIME        [SOMETIME]      s ah m t ay m sp
 SOMETIMES       [SOMETIMES]     s ax m t ay m z sp
@@ -3303,6 +3486,7 @@ SPAT            [SPAT]          s p ae t sp
 SPEAK           [SPEAK]         s p iy k sp
 SPEAKING        [SPEAKING]      s p iy k ix ng sp
 SPEARS          [SPEARS]        s p ih r z sp
+SPECIAL         [SPECIAL]       s p eh sh ax l sp
 SPECIALLY       [SPECIALLY]     s p eh sh ax l iy sp
 SPECIES         [SPECIES]       s p iy sh iy z sp
 SPECIFIC        [SPECIFIC]      s p ax s ih f ix k sp
@@ -3331,6 +3515,7 @@ SPRINGS         [SPRINGS]       s p r ih ng z sp
 SPRINGY         [SPRINGY]       s p r ih ng iy sp
 SPRUCE          [SPRUCE]        s p r uw s sp
 SPUR            [SPUR]          s p er sp
+SQUARE          [SQUARE]        s k w eh r sp
 SQUARELY        [SQUARELY]      s k w eh r l iy sp
 SQUEAMISH       [SQUEAMISH]     s k w iy m ix sh sp
 ST              [ST]            s t r iy t sp
@@ -3399,15 +3584,20 @@ STREAKS         [STREAKS]       s t r iy k s sp
 STREAMING       [STREAMING]     s t r iy m ix ng sp
 STREET          [STREET]        s t r iy t sp
 STRENGTH        [STRENGTH]      s t r eh ng k th sp
+STRESSED        [STRESSED]      s t r eh s t sp
+STRIKES         [STRIKES]       s t r ay k s sp
 STRIKING        [STRIKING]      s t r ay k ix ng sp
 STRING          [STRING]        s t r ih ng sp
 STRINGY         [STRINGY]       s t r ih ng iy sp
 STRIVING        [STRIVING]      s t r ay v ix ng sp
+STROKING        [STROKING]      s t r ow k ix ng sp
 STRONG          [STRONG]        s t r ao ng sp
 STRUCK          [STRUCK]        s t r ah k sp
+STRUT           [STRUT]         s t r ah t sp
 STUBBY          [STUBBY]        s t ah b iy sp
 STUDIO          [STUDIO]        s t uw dx iy ow sp
 STYLE           [STYLE]         s t ay l sp
+SUB             [SUB]           s ah b sp
 SUB-FOREMAN     [SUB-FOREMAN]   s ah b f ao r m ax n sp
 SUBJECT         [SUBJECT]       s ax b jh eh k t sp
 SUBMERGED       [SUBMERGED]     s ax b m er jh d sp
@@ -3418,6 +3608,7 @@ SUCH            [SUCH]          s ah ch sp
 SUDDEN          [SUDDEN]        s ah d ax n sp
 SUDDENLY        [SUDDENLY]      s ah d ax n l iy sp
 SUDDENNESS      [SUDDENNESS]    s ah d ax n n ax s sp
+SUFFERING       [SUFFERING]     s ah f er ix ng sp
 SUFFICIENT      [SUFFICIENT]    s ax f ih sh ax n t sp
 SUFFOCATING     [SUFFOCATING]   s ah f ax k ey dx ix ng sp
 SUGAR           [SUGAR]         sh uh g er sp
@@ -3431,8 +3622,11 @@ SUMMER          [SUMMER]        s ah m er sp
 SUMMIT          [SUMMIT]        s ah m ax t sp
 SUN             [SUN]           s ah n sp
 SUNDAY          [SUNDAY]        s ah n d ey sp
+SUNLIGHT        [SUNLIGHT]      s ah n l ay t sp
+SUNS            [SUNS]          s ah n z sp
 SUNSETS         [SUNSETS]       s ah n s eh t s sp
 SUNSHINE        [SUNSHINE]      s ah n sh ay n sp
+SUPER           [SUPER]         s uw p er sp
 SUPERB          [SUPERB]        s uh p er b sp
 SUPERFLUOUS     [SUPERFLUOUS]   s uw p er f l w ah s sp
 SUPERIOR        [SUPERIOR]      s uw p ih r iy er sp
@@ -3446,6 +3640,7 @@ SURE            [SURE]          sh uh r sp
 SURELY          [SURELY]        sh uh r l iy sp
 SURPLUSES       [SURPLUSES]     s er p l ax s ix z sp
 SURPRISE        [SURPRISE]      s er p r ay z sp
+SURPRISING      [SURPRISING]    s er p r ay z ix ng sp
 SURRENDER       [SURRENDER]     s er eh n d er sp
 SURVEYED        [SURVEYED]      s er v ey d sp
 SUSPICIOUSLY    [SUSPICIOUSLY]  s ax s p ih sh ax s l iy sp
@@ -3514,6 +3709,7 @@ TENTH           [TENTH]         t eh n th sp
 TERMS           [TERMS]         t er m z sp
 TERRIBLE        [TERRIBLE]      t eh r ax b ax l sp
 TERRIBLY        [TERRIBLY]      t eh r ax b l iy sp
+TERRITORY       [TERRITORY]     t eh r ix t ao r iy sp
 TERROR          [TERROR]        t eh r er sp
 TERSELY         [TERSELY]       t er s l iy sp
 TEST            [TEST]          t eh s t sp
@@ -3593,12 +3789,14 @@ TINGLING        [TINGLING]      t ih ng g ax l ix ng sp
 TINTED          [TINTED]        t ih n t ix d sp
 TIPS            [TIPS]          t ih p s sp
 TIRADE          [TIRADE]        t ay r ey d sp
+TIRE            [TIRE]          t ay er sp
 TIRED           [TIRED]         t ay er d sp
 TO              [TO]            t uw sp
 TOBACCO         [TOBACCO]       t ax b ae k ow sp
 TODAY           [TODAY]         t ax d ey sp
 TODAY'S         [TODAY'S]       t ax d ey z sp
 TOGETHER        [TOGETHER]      t ax g eh dh er sp
+TOKEN           [TOKEN]         t ow k ax n sp
 TOKYO           [TOKYO]         t ow k iy ow sp
 TOLBERT         [TOLBERT]       t ow l b er t sp
 TOLD            [TOLD]          t ow l d sp
@@ -3618,6 +3816,7 @@ TORONTO         [TORONTO]       t er aa n t ow sp
 TOUCHY          [TOUCHY]        t ah ch iy sp
 TOULOUSE        [TOULOUSE]      t uw l uw z sp
 TOWARD          [TOWARD]        t ax w ao r d sp
+TOWER           [TOWER]         t aw er sp
 TOWN            [TOWN]          t aw n sp
 TOYS            [TOYS]          t oy z sp
 TRACK           [TRACK]         t r ae k sp
@@ -3635,6 +3834,7 @@ TRAVELODGE      [TRAVELODGE]    t r ae v ax l aa jh sp
 TRAVERSE        [TRAVERSE]      t r ae v er s sp
 TREACHEROUS     [TREACHEROUS]   t r eh ch er ax s sp
 TREATMENT       [TREATMENT]     t r iy t m ax n t sp
+TREE            [TREE]          t r iy sp
 TREES           [TREES]         t r iy z sp
 TREMENDOUS      [TREMENDOUS]    t r ax m eh n d ax s sp
 TRENTON         [TRENTON]       t r eh n t ax n sp
@@ -3656,6 +3856,7 @@ TUDOR           [TUDOR]         t uw dx er sp
 TUESDAY         [TUESDAY]       t uw z d iy sp
 TULSA           [TULSA]         t ah l s ax sp
 TUMBLING        [TUMBLING]      t ah m b ax l ix ng sp
+TUNE            [TUNE]          t uw n sp
 TUPELO          [TUPELO]        t y uw p ax l ow sp
 TURKEY          [TURKEY]        t er k iy sp
 TURNED          [TURNED]        t er n d sp
@@ -3670,6 +3871,7 @@ TWENTY          [TWENTY]        t w eh n t iy sp
 TWIN            [TWIN]          t w ih n sp
 TWO             [TWO]           t uw sp
 TYLER           [TYLER]         t ay l er sp
+TYPE            [TYPE]          t ay p sp
 TYPEWRITTEN     [TYPEWRITTEN]   t ay p r ih t ax n sp
 TYPHOID         [TYPHOID]       t ay f oy d sp
 U               [U]             y uw sp
@@ -3677,6 +3879,7 @@ UNBROKEN        [UNBROKEN]      ax n b r ow k ax n sp
 UNCOMFORTABLE   [UNCOMFORTABLE] ax n k ah m f er dx ax b ax l sp
 UNCOMPROMISING  [UNCOMPROMISING] ax n k aa m p r ax m ay z ix ng sp
 UNCONSCIOUSLY   [UNCONSCIOUSLY] ah n k aa n sh ax s l iy sp
+UNDAUNTED       [UNDAUNTED]     ax n d ao n t ix d sp
 UNDECIDED       [UNDECIDED]     ah n d ix s ay dx ix d sp
 UNDER           [UNDER]         ah n d er sp
 UNDERSCORE      [UNDERSCORE]    ah n d er s k ao r sp
@@ -3695,6 +3898,8 @@ UNKNOWN         [UNKNOWN]       ax n n ow n sp
 UNLIKE          [UNLIKE]        ax n l ay k sp
 UNOBTRUSIVE     [UNOBTRUSIVE]   ah n ax b t r uw s ix v sp
 UNQUENCHABLE    [UNQUENCHABLE]  ax n k w eh n ch ax b ax l sp
+UNSAFE          [UNSAFE]        ax n s ey f sp
+UNSANITARY      [UNSANITARY]    ax n s ae n ax t eh r iy sp
 UNTIL           [UNTIL]         ax n t ih l sp
 UNTO            [UNTO]          ah n t uw sp
 UNTOWARD        [UNTOWARD]      ax n t uw ao r d sp
@@ -3727,6 +3932,7 @@ VAMPIRE         [VAMPIRE]       v ae m p ay r sp
 VANCOUVER       [VANCOUVER]     v ae n k uw v er sp
 VANGUARD        [VANGUARD]      v ae n g aa r d sp
 VARIG           [VARIG]         v eh r ix g sp
+VARIOUS         [VARIOUS]       v eh r iy ax s sp
 VASTLY          [VASTLY]        v ae s t l iy sp
 VAULTING        [VAULTING]      v ao l t ix ng sp
 VEGAS           [VEGAS]         v ey g ax s sp
@@ -3741,6 +3947,10 @@ VERDE           [VERDE]         v er dx iy sp
 VERMONT         [VERMONT]       v er m aa n t sp
 VERY            [VERY]          v eh r iy sp
 VESSEL          [VESSEL]        v eh s ax l sp
+VET             [VET]           v eh t sp
+VET'S           [VET'S]         v eh t s sp
+VETERINARY      [VETERINARY]    v eh t r ax n eh r iy sp
+VETS            [VETS]          v eh t s sp
 VICTIM          [VICTIM]        v ih k t ax m sp
 VICTOR          [VICTOR]        v ih k t er sp
 VICTORIA        [VICTORIA]      v ix k t ao r iy ax sp
@@ -3785,6 +3995,7 @@ WALK            [WALK]          w ao k sp
 WALKED          [WALKED]        w ao k t sp
 WALL            [WALL]          w ao l sp
 WALLA           [WALLA]         w ao l ax sp
+WALLS           [WALLS]         w ao l z sp
 WALSH           [WALSH]         w ao l sh sp
 WALT            [WALT]          w ao l t sp
 WANDERER        [WANDERER]      w aa n d er er sp
@@ -3792,10 +4003,12 @@ WANG            [WANG]          w ae ng sp
 WANT            [WANT]          w aa n t sp
 WANTED          [WANTED]        w aa n t ax d sp
 WANTON          [WANTON]        w ao n t ax n sp
+WAR             [WAR]           w ao r sp
 WARD            [WARD]          w ao r d sp
 WARDEN          [WARDEN]        w ao r d ax n sp
 WARDS           [WARDS]         w ao r d z sp
 WARM            [WARM]          w ao r m sp
+WARNED          [WARNED]        w ao r n d sp
 WARSAW          [WARSAW]        w ao r s ao sp
 WAS             [WAS]           w aa z sp
 WASH            [WASH]          w aa sh sp
@@ -3843,6 +4056,7 @@ WHAT'S          [WHAT'S]        w ah t s sp
 WHATEVER        [WHATEVER]      w ah t eh v er sp
 WHEEL           [WHEEL]         w iy l sp
 WHEN            [WHEN]          w eh n sp
+WHENEVER        [WHENEVER]      w eh n eh v er sp
 WHERE           [WHERE]         w eh r sp
 WHEREIN         [WHEREIN]       w eh r ih n sp
 WHEREVER        [WHEREVER]      w eh r eh v er sp
@@ -3866,6 +4080,7 @@ WHOSE           [WHOSE]         hh uw z sp
 WHY             [WHY]           w ay sp
 WICHITA         [WICHITA]       w ih ch ax t ao sp
 WIDE            [WIDE]          w ay d sp
+WIDTH           [WIDTH]         w ih d th sp
 WIFE            [WIFE]          w ay f sp
 WILD            [WILD]          w ay l d sp
 WILDERNESS      [WILDERNESS]    w ih l d er n ax s sp
@@ -3882,6 +4097,7 @@ WINE            [WINE]          w ay n sp
 WINNER          [WINNER]        w ih n er sp
 WINS            [WINS]          w ih n z sp
 WINSTON         [WINSTON]       w ih n s t ax n sp
+WIPED           [WIPED]         w ay p t sp
 WISCONSIN       [WISCONSIN]     w ix s k aa n s ax n sp
 WISE            [WISE]          w ay z sp
 WISH            [WISH]          w ih sh sp
@@ -3901,6 +4117,7 @@ WON'T           [WON'T]         w ow n t sp
 WONDER          [WONDER]        w ah n d er sp
 WONDERED        [WONDERED]      w ah n d er d sp
 WONDERFUL       [WONDERFUL]     w ah n d er f ax l sp
+WONT            [WONT]          w ow n t sp
 WOOD            [WOOD]          w uh d sp
 WORD            [WORD]          w er d sp
 WORDS           [WORDS]         w er d z sp
@@ -3972,5 +4189,6 @@ ZHANG           [ZHANG]         zh ae ng sp
 ZHOU            [ZHOU]          z uw sp
 ZILLA           [ZILLA]         z ih l ax sp
 ZIP             [ZIP]           z ih p sp
+ZOO             [ZOO]           z uw sp
 ZUE             [ZUE]           z uw sp
 ZURICH          [ZURICH]        z uh r ix k sp

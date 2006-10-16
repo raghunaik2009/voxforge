@@ -33,8 +33,8 @@
 #-gramlist file
 
 #### (3) Classic way to specify a grammar.
--dfa testing/sample.dfa
--v testing/sample.dict
+-dfa sample.dfa
+-v sample.dict
 
 #### If you want to clear previously specified grammars, use this at the
 #### point.
@@ -45,10 +45,10 @@
 ##
 # support ascii hmmdefs or binary format (converted by "mkbinhmm")
 # format (ascii/binary) will be automatically detected
--h acoustic_model_files/hmmdefs
+-h hmmdefs
 
 ## triphone model needs HMMList that maps logical triphone to physical ones.
--hlist acoustic_model_files/tiedlist
+-hlist tiedlist
 
 ######################################################################
 #### Multiple grammar recognition
@@ -61,8 +61,8 @@
 ##
 ## word insertion penalty
 ##
-#-penalty1 0.0		# first pass
-#-penalty2 0.0		# second pass
+-penalty1 5.0		# first pass
+-penalty2 20.0		# second pass
 
 ######################################################################
 #### Dictionary
@@ -92,7 +92,7 @@
 ## (PTM/triphone) switch computation method of IWCD on 1st pass
 ##
 #-iwcd1 best N	# assign average of N-best likelihood of the same context
-#-iwcd1 max	# assign maximum likelihood of the same context
+-iwcd1 max	# assign maximum likelihood of the same context
 #-iwcd1 avg	# assign average likelihood of the same context (default)
 
 ######################################################################
@@ -105,7 +105,7 @@
 
 ## Select Gaussian pruning algorithm
 ## defulat: beam (standard setting), safe (others)
-#-gprune safe		# safe pruning, accurate but slow
+-gprune safe		# safe pruning, accurate but slow
 #-gprune heuristic	# heuristic pruning
 #-gprune beam		# beam pruning, fast but sensitive
 #-gprune none		# no pruning
@@ -123,8 +123,8 @@
 #-b 400                 # beam width on 1st pass (#nodes) for monophone
 #-b 800                 # beam width on 1st pass (#nodes) for triphone,PTM
 #-b 1000                # beam width on 1st pass (#nodes) for triphone,PTM,engine=v2.1
-#-b2 30                 # beam width on 2nd pass (#words)
-#-sb 80.0		# score beam envelope threshold
+-b2 200                 # beam width on 2nd pass (#words)
+-sb 200.0		# score beam envelope threshold
 #-s 500                 # hypotheses stack size on 2nd pass (#hypo)
 #-m 2000                # hypotheses overflow threshold (#hypo)
 #-lookuprange 5         # lookup range for word expansion (#frame)
@@ -139,14 +139,14 @@
 ##
 ## Specify short pause model name to be treated as special
 ##
-#-spmodel "sp"		# HMM model name
+-spmodel "sp"		# HMM model name
 
 ##
 ## For insertion of context-free short-term inter-word pauses between words
 ##  (multi-path version only)
 ##
-#-iwsp			# append a skippable sp model at all word ends
-#-iwsppenalty 0.0	# transition penalty for the appenede sp models
+-iwsp			# append a skippable sp model at all word ends
+-iwsppenalty -70.0	# transition penalty for the appenede sp models
 
 ######################################################################
 #### Speech Input Source
