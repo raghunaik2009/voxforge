@@ -1,6 +1,7 @@
 ===[http://voxforge.googlecode.com/files/SubmitSpeech.html Start the Speech Submission Java Applet]===
 
-||[http://www.voxforge.org/home/read2/java-security-warning For more information on the  Java Security Warning pop-up]||
+||[http://www.voxforge.org/home/read2/java-security-warning Information on the  Java Security Warning pop-up]||
+||[http://www.voxforge.org/home/read2/java Help with with the Speech Submission Java Applet]||
 
 ==Instructions==
 Please fill in all the required fields on the form.   
@@ -30,5 +31,3 @@ Repeat the process (multiple are submissions encouraged!)
 
   * [http://www.voxforge.org/home/other using the using Audacity audio editor],
   * [http://www.voxforge.org/home/other using your telephone].
-
-||[http://www.voxforge.org/home/read2/java For help if you are having problems with the Speech Submission Java Applet]||
