@@ -1,5 +1,5 @@
 ===[http://voxforge.googlecode.com/files/SubmitSpeech.html Start the Speech Submission Java Applet]=== 
-(open the link with your browser)
+(open the link with your Web Browser)
 ||[http://www.voxforge.org/home/read2/java-security-warning Information on the Java Security Warning pop-up]||
 ||[http://www.voxforge.org/home/read2/java Help with Java and the Speech Submission Java Applet]||
 
