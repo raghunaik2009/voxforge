@@ -1,17 +1,14 @@
-Read Prompts and Submit Recordings
-
 ||[http://www.voxforge.org/home/read2/java-security-warning For more information on the  Java Security Warning pop-up]||
 
- 
-
 Please fill in all the required fields on the form below.   
-Before you Begin Recording Prompts
+
+==Before you Begin Recording Prompts==
 
 Position your mike so it does not pick up your breathing.  While recording, try to minimize any non-speech noises (i.e. lip smacking, taking a breath, ...) or background noise.  Don't exhale until after you have clicked the Stop button. 
 
 The black box near the bottom of your screen will display the audio waveform of your recording. Please [http://www.voxforge.org/home/read2/java-security-warning record a test recording] to ensure your mike volume is not too high or too low.
 
-Recording Prompts 
+==Recording Prompts ==
 
 For each prompt line, please record your speech as follows:
 
@@ -26,8 +23,7 @@ Once you have completed recording all ten prompts the Upload button will activat
 
 Repeat the process (multiple are submissions encouraged!)  
 
-
-Other Options for Submitting Speech
+==Other Options for Submitting Speech==
 
   * [http://www.voxforge.org/home/other using the using Audacity audio editor],
   * [http://www.voxforge.org/home/other using your telephone].
