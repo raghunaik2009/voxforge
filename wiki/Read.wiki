@@ -15,12 +15,12 @@ Recording Prompts
 
 For each prompt line, please record your speech as follows:
 
-   1. click the Record button,
-   2. pause for half a second,
-   3. Read the corresponding prompt sentence,
-   4. pause for half a second, and then
-   5. click the the Stop button.
-   6. If you make a mistake, click Record again to re-record your prompt.
+   # click the Record button,
+   # pause for half a second,
+   # Read the corresponding prompt sentence,
+   # pause for half a second, and then
+   # click the the Stop button.
+   # If you make a mistake, click Record again to re-record your prompt.
 
 Once you have completed recording all ten prompts the Upload button will activate. Click the Upload button to upload your entire submission to the VoxForge repository as a single zip file.
 
