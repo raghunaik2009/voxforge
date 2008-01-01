@@ -32,4 +32,4 @@ Other Options for Submitting Speech
   * [http://www.voxforge.org/home/other using the using Audacity audio editor],
   * [http://www.voxforge.org/home/other using your telephone].
 
-||If the [http://www.voxforge.org/home/read2/java Speech Submission Java Applet] is not displaying properly||
+||[http://www.voxforge.org/home/read2/java For help with Speech Submission Java Applet]||
