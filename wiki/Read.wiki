@@ -1,6 +1,6 @@
 Read Prompts and Submit Recordings
 
-||For more information on the [http://www.voxforge.org/home/read2/java-security-warning Java Security Warning] pop-up that might appear when you open this page ||
+||[http://www.voxforge.org/home/read2/java-security-warning For more information on the  Java Security Warning pop-up]||
 
  
 
