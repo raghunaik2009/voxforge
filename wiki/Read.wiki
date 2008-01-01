@@ -1,9 +1,9 @@
-[http://voxforge.googlecode.com/files/SubmitSpeech.html Speech Submission Java Applet]
+===[http://voxforge.googlecode.com/files/SubmitSpeech.html Start the Speech Submission Java Applet]===
 
 ||[http://www.voxforge.org/home/read2/java-security-warning For more information on the  Java Security Warning pop-up]||
 
 ==Instructions==
-Please fill in all the required fields on the form below.   
+Please fill in all the required fields on the form.   
 
 ==Before you Begin Recording Prompts==
 
