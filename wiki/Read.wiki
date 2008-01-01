@@ -29,3 +29,5 @@ Repeat the process (multiple are submissions encouraged!)
   * [http://www.voxforge.org/home/other using your telephone].
 
 ||[http://www.voxforge.org/home/read2/java For help with Speech Submission Java Applet]||
+
+http://voxforge.googlecode.com/files/SubmitSpeech.html
