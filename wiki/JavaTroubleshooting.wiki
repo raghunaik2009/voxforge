@@ -17,7 +17,7 @@ If Java is working properly on your browser, when you click the link below, a ne
 
 || *symptom:* If you see text stating something like: "Browser has Java disabled" ||
 
-*problem:* Browser has Java disabled
+*problem:* the Java Run-time Environment ("JRE") is installed on your computer, but it is disabled in your web browser
 
 *solution:* Click one of these links to enable Java in your browser:
 
