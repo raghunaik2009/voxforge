@@ -28,7 +28,7 @@ Thawte offers [http://www.thawte.com/secure-email/personal-email-certificates/in
 
 Simply because the front-end server for [http://www.voxforge.org voxforge.org] is on a server connected to a low-bandwidth Internet connection.  [http://voxforge.googlecode.com voxforge.googlecode.com] is located on a Google server which has a much higher bandwidth connection.  
 
-||Note: Any submitted speech gets uploaded to the VoxForge repository on [http://read.voxforge1.org/ read.voxforge1.org].  This is the same server that currently houses the [http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/ VoxForge Speech Corpus].||
+||Note: Any submitted speech gets uploaded to the !VoxForge repository on [http://read.voxforge1.org/ read.voxforge1.org].  This is the same server that currently houses the [http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/ VoxForge Speech Corpus].||
 
 ==More Info==
 
