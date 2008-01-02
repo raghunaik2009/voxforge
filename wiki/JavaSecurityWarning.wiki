@@ -44,4 +44,4 @@ And if you click "Certificate Details", you will find a line like this (after cl
 
 http://voxforge.googlecode.com/files/DetailsCertificate.jpg 
 
-This shows that the certificate, even though it has "Thawte E-mail Member" as the publisher, is registered to me: kmaclean at [www.voxforge.org voxforge.org].
+This shows that the certificate, even though it has "Thawte E-mail Member" as the publisher, is registered to me: kmaclean at [http://www.voxforge.org voxforge.org].
