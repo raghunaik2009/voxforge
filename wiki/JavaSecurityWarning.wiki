@@ -1,0 +1,35 @@
+The SubmitSpeech page on the !VoxForge site contains a Java applet.  A Java applet is basically a Java program that runs on the Java Run-time Environment on your PC, but looks like it forms part of a web page.  Part of the start-up process for any Java applet is a check to see if the applet is going to use any resources on your PC - like accessing to your hard drive, the Internet, etc. 
+
+==Java Security Warning Pop-up==
+
+The VoxForge Speech Submission Application is a Java Applet.  It creates temporary files on your PC to hold your audio as you record each prompt line (in addition to your responses to the form questions, and the prompts themselves) and then moves them to a zip file to be uploaded to the VoxForge server.  Because of this, the Java Run-time Environment on your PC displays a Security Warning pop-up like this:
+
+It is up to you to decide whether you want to permit the VoxForge Speech Submission Application to run on your PC.  Please be aware that by clicking the "run" button you are permitting this application to run without the security restrictions normally provided by Java.  However, the intent of this application is only to create temporary files to permit you to record your speech and upload the result to the VoxForge server.  We don't collect any information from your PC (though there will be a log entry on the web server when you upload your file).  Once your close your browser, and your Java Run-time Environment terminates, these files will be removed from your PC.  The  good thing about Open Source software is that the source code for this application is available for review, and anyone can confirm this.
+
+==What is Thawte?==
+
+You might be asking yourself is who is Thawte, and why should you be accepting a certificate from them?  From their Wikipedia entry:
+
+    Thawte Consulting is a certificate authority (CA) for X.509 certificates. Thawte, (pronounced like "thought"), was founded in 1995 by Mark Shuttleworth in South Africa and is the second largest public CA on the Internet.
+
+Thawte offers free email certificates that can be used sign Java code for use in Java Applets (Richard Dallaway's Java Web Start and Code Signing page provides the details on how this can be done).  This is why "Thawte E-mail Member" appears as the publisher on the certificate.
+
+==Why read.voxforge1.org rather than www.voxforge.org? ==
+
+Simply because the front-end server for voxforge.org is on  a PC connected to a low-bandwidth Internet connection.  voxforge1.org is located on a webhoster's server and has a much higher bandwidth connection.  This is the same server that currently houses the VoxForge Speech Corpus.
+
+==More Info==
+
+If you click the "more info", you will see something like this:
+
+ 
+
+These are standard Java Applet warnings that appear when you start a Java Application that might use resources on your PC. 
+
+==Certificate Details==
+
+And if you click "Certificate Details", you will find a line like this (after clicking the Thawte Freemail Member item in the left-hand menu column):
+
+ 
+
+This shows that the certificate, even though it has "Thawte E-mail Member" as the publisher, is registered to me: kmaclean.
