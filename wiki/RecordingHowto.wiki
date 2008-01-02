@@ -34,6 +34,6 @@ http://voxforge.googlecode.com/files/speechsubmission-toosoft.jpg
 
 In addition, the volume of your recording should not be so low that you have little or no vertical height to the waveforms for your speech (see above).
 
-If this occurs, please reduce your microphone volume and re-record your prompt.
+If this occurs, please increase your microphone volume and re-record your prompt.
 
  
