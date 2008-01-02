@@ -1,16 +1,16 @@
 #labels Submit,Speech
 http://voxforge.googlecode.com/files/voxforge-logo.jpg
 
+===[http://voxforge.googlecode.com/files/SubmitSpeech.html Click here to start the Speech Submission Java Applet]=== 
+(When your browser asks you what to do with this file, tell it open the link with your Web Browser)
+||[http://code.google.com/p/voxforge/wiki/JavaSecurityWarning Information on the Java Security Warning pop-up]||
+||[http://code.google.com/p/voxforge/wiki/JavaTroubleshooting Help with Java and the Speech Submission Java Applet]||
+
 ==Before you Begin Recording Prompts==
 
 Position your mike so it does not pick up your breathing.  While recording, try to minimize any non-speech noises (i.e. lip smacking, taking a breath, ...) or background noise.  Don't exhale until after you have clicked the Stop button. 
 
 The black box near the bottom of your screen will display the audio waveform of your recording. Please [http://code.google.com/p/voxforge/wiki/RecordingHowto record a test recording] to ensure your microphone volume is not too high or too low.
-
-===[http://voxforge.googlecode.com/files/SubmitSpeech.html Click here to start the Speech Submission Java Applet]=== 
-(When your browser asks you what to do with this file, tell it open the link with your Web Browser)
-||[http://code.google.com/p/voxforge/wiki/JavaSecurityWarning Information on the Java Security Warning pop-up]||
-||[http://code.google.com/p/voxforge/wiki/JavaTroubleshooting Help with Java and the Speech Submission Java Applet]||
 
 ==Recording Prompts ==
 
