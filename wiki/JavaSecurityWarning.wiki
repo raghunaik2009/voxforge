@@ -1,6 +1,6 @@
 http://voxforge.googlecode.com/files/voxforge-logo.jpg
 
-The SubmitSpeech page on the !VoxForge Google site contains a Java applet.  A Java applet is basically a Java program that runs on the Java Run-time Environment on your PC, but looks like it forms part of a web page.  Part of the start-up process for any Java applet is a check to see if the applet is going to use any resources on your PC - like accessing to your hard drive, the Internet, etc. 
+The SubmitSpeech page on the !VoxForge Google site contains a Java applet.  A [http://en.wikipedia.org/wiki/Java_applet Java applet] is basically a Java program that runs on the [Java Run-time Environment http://en.wikipedia.org/wiki/Java_Runtime_Environment] on your PC, but looks like it forms part of a web page.  Part of the start-up process for any Java applet is a check to see if the applet is going to use any resources on your PC - like accessing to your hard drive, the Internet, etc. 
 
 ==Java Security Warning Pop-up==
 
