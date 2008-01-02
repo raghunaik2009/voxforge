@@ -5,72 +5,45 @@
 
 ==How to determine if Java is installed on your PC==
 
-If Java is working properly on your browser, you will see a grey rectangle below with one line of text that says something like:
+If Java is working properly on your browser, when you click the link below you will see a grey rectangle with one line of text that says something like:
 
     Java Version 1.5.0_12 from Sun Microsystems Inc.
 
+||*symptom:* If you see text stating something like: "Browser has Java disabled"||
 
-==Browser has Java disabled==
+*problem:* Browser has Java disabled
 
-    * If you see text stating something like: "Browser has Java disabled",
-          o  then you likely have a Java Run-time Environment ("JRE") installed on your computer, but it is disabled in your web browser (e.g. MS Internet Explorer, !FireFox, etc.),
+*solution:* Click one of these links to enable Java in your browser:
 
-    Click one of these links to enable Java in your browser:
+   * [http://www.java.com/en/download/help/enable_browser.xml Enable JRE through your Web browser];
+   * [http://www.java.com/en/download/help/enable_panel.xml Enable JRE through the Java Plug-in Control Panel] (Windows).
 
-        * [http://www.java.com/en/download/help/enable_browser.xml Enable JRE through your Web browser];
-        * [http://www.java.com/en/download/help/enable_panel.xml Enable JRE through the Java Plug-in Control Panel] (Windows).
+   You might also need to [http://www.java.com/en/download/help/webcache.xml Clear your Web Browser Cache] to get Java to work in your browser.
 
-    You might also need to [http://www.java.com/en/download/help/webcache.xml Clear your Web Browser Cache] to get Java to work in your browser.
 
-==Java not Installed on your Computer==
+|| *symptom: * If you see the outline of a white box with no text in it ||
 
-    * If you see the outline of a white box with no text in it,
-          o  then the Java Run-time Environment ("JRE") is likely not installed on your PC.  Go to Sun's [http://www.java.com/en/download/installed.jsp Verify your Java Installation] to confirm this.  If this is the case, then go to [http://www.java.com/en/download Java's Free Java Download] page and click the big green button to download the most current JRE onto your PC 
+*problem*: Java not Installed on your computer
 
-    Windows
+*solution:* Go to Sun's [http://www.java.com/en/download/installed.jsp Verify your Java Installation] and follow the instructions on the page to install Java onto your computer.
 
-    Sun's Java download will automatically configure Internet Explorer for Java.
+*Windows*
+  * Internet Explorer - Sun's Java download will automatically configure IE for Java.
+  * FireFox - you can click the white box or click the "missing plugins" button at the top right-hand corner of the page and FireFox will guide you to download a Java Run-time environment for you PC.
+  * [http://www.java.com/en/download/help/enable_browser.xml Other browsers].
 
-    If you are using FireFox, you can click the white box or click the "missing plugins" button at the top right-hand corner of the page and FireFox will guide you to download a Java Run-time environment for you PC.
+*Linux*
+  * [http://www.java.com/en/download/help/5000010500.xml Sun's Installation Instructions]  
+  * Community documentation:
+    * Fedora: [http://www.fedorafaq.org/ Unofficial Fedora FAQ]'s section on [http://www.fedorafaq.org/#java How to install Java].
+    * Ubuntu: [https://help.ubuntu.com/community/Java Community Ubuntu Documentation] or [https://jdk-distros.dev.java.net/ubuntu.html Java.net]
+    * Suse: [http://en.opensuse.org/Java OpenSuse.org]
 
-    [http://www.java.com/en/download/help/enable_browser.xml How-to configure other browsers to use Java].
+|| *symptom:* If you see a grey box with no text in it ||
 
-    Linux
+*Problem:* Older version of Java.  
 
-        * [http://www.java.com/en/download/help/5000010500.xml Sun's Installation Instructions]  
-
-        * Community documentation:
-              o Fedora: Unofficial Fedora FAQ's section on How to install Java.
-              o Ubuntu: Community Ubuntu Documentation or Java.net
-              o Suse: OpenSuse.org
-
-==Older version of Java==
-
-    * If you see a grey box with no text in it,
-          o  you likely have an older version of the Java Run-time Environment (e.g. any version prior to 1.5 ... like version 1.4.2 - which is still commonly used).  Go to Sun's Verify your Java Installation to confirm this.  If the verify page determines that you don't have the most current version of Java Run-time Environment you will be given the option to download Java from that page.  If you know you have an older version and want to upgrade to the most current version of Java, you can also go directly to Sun's Free Java Download page and click the big green button to download Java onto your PC.
-
-    *Windows*
-
-    Sun's Java download will automatically configure Internet Explorer. 
-
-    FireFox will also get automatically configured, but you may need to restart your browser for the upgrade to take effect. 
-
-    [http://www.java.com/en/download/help/enable_browser.xml Configure other browsers to use Java].
-    *Linux*
-
-        * [http://www.java.com/en/download/help/5000010500.xml Sun's Installation Instructions]  
-
-        * Community documentation:
-              o Fedora: [http://www.fedorafaq.org/ Unofficial Fedora FAQ]'s section on [http://www.fedorafaq.org/#java How to install Java].
-              o Ubuntu: [https://help.ubuntu.com/community/Java Community Ubuntu Documentation] or [https://jdk-distros.dev.java.net/ubuntu.html Java.net]
-              o Suse: [http://en.opensuse.org/Java OpenSuse.org]
-
-Note that if you do upgrade, it is also a good idea to remove your old version(s) of Java (in Windows, go to your control panel, and use Add/Remove Programs).
-Compatible but not Current Version of Java
-
-Even if you have a compatible version of the Java Run-time Environment (i.e. version 1.5 and above) listed in the grey box above, it's still a good idea to go to Sun's site to [http://www.java.com/en/download/installed.jsp verify] your release of Java, and, if need be, upgrade to the most [http://www.java.com/en/download/installed.jsp current Java Installation] (to ensure you have a version with all the most recent security patches). 
-
-Note that if you do upgrade, it is also a good idea to remove your old version(s) of Java (in Windows, go to your control panel, and use Add/Remove Programs).
+*Solution:* Go to Sun's [http://www.java.com/en/download/installed.jsp Verify your Java Installation] and follow the instructions on the page to upgrade the version of Java on your computer.
 
 ==Other Resources==
 
