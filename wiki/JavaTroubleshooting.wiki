@@ -19,7 +19,7 @@ If Java is working properly on your browser, when you click the link below, a ne
 
 *problem:* the Java Run-time Environment ("JRE") is installed on your computer, but it is disabled in your web browser
 
-*solution:* Click one of these links to enable Java in your browser:
+*solution:* Click one of these links for information on how to enable Java in your browser:
 
    * [http://www.java.com/en/download/help/enable_browser.xml Enable JRE through your Web browser];
    * [http://www.java.com/en/download/help/enable_panel.xml Enable JRE through the Java Plug-in Control Panel] (Windows).
