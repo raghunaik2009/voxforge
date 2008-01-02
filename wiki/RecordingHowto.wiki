@@ -12,10 +12,7 @@ If you have a headset microphone, this should be easy to do.  Your microphone sh
 
 ==Recording Levels==
 
-Now you need to test your recording levels.  For help in adjusting your microphone levels, see the relevant FAQ entry:
-
-    * Linux: how to adjust your microphone volume
-    * Windows: how to adjust your microphone volume
+Now you need to test your recording levels.  
 
 Click the "Record" button and begin speaking in your normal voice for a few seconds, and then click the "Stop" button.
 
@@ -30,13 +27,13 @@ http://voxforge.googlecode.com/files/speechsubmission-tooloud.jpg
 
 It should not be so loud that your waveform is clipped at the top (see above), or that you get a message saying that "input is too loud" in the box below the upload button. 
 
-If this occurs, please re-record your prompt.
+If this occurs, please reduce your microphone volume and re-record your prompt.
 
 ==Volume is too Soft== 
 http://voxforge.googlecode.com/files/speechsubmission-toosoft.jpg
 
 In addition, the volume of your recording should not be so low that you have little or no vertical height to the waveforms for your speech (see above).
 
-If this occurs, please re-record your prompt.
+If this occurs, please reduce your microphone volume and re-record your prompt.
 
  
