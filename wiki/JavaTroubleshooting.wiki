@@ -1,3 +1,5 @@
+http://voxforge.googlecode.com/files/voxforge-logo.jpg
+
 ==The !VoxForge Speech Submission Application requires the following:==
 
    # Java version 1.5 or greater;
@@ -8,6 +10,10 @@
 If Java is working properly on your browser, when you click the link below you will see a grey rectangle with one line of text that says something like:
 
     Java Version 1.5.0_12 from Sun Microsystems Inc.
+
+[http://voxforge.googlecode.com/files/JavaVersion.html Click here to start the JavaVersion applet]
+
+(When your browser asks you what to do with this file, tell it open the link with your Web Browser)
 
 ||*symptom:* If you see text stating something like: "Browser has Java disabled"||
 
