@@ -7,7 +7,7 @@ http://voxforge.googlecode.com/files/voxforge-logo.jpg
 
 ==How to determine if Java is installed on your PC==
 
-If Java is working properly on your browser, when you click the link below you will see a grey rectangle with one line of text that says something like:
+If Java is working properly on your browser, when you click the link below, a new windows will open in your browser and you will see a grey rectangle with one line of text that says something like:
 
     Java Version 1.5.0_12 from Sun Microsystems Inc.
 
