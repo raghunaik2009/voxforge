@@ -29,8 +29,3 @@ For each prompt line, please record your speech as follows:
 Once you have completed recording all ten prompts the Upload button will activate. Click the Upload button to upload your entire submission to the !VoxForge repository as a single zip file.
 
 Repeat the process (multiple are submissions encouraged!)  
-
-==Other Options for Submitting Speech==
-
-  * [http://www.voxforge.org/home/other using the using Audacity audio editor],
-  * [http://www.voxforge.org/home/other using your telephone].
