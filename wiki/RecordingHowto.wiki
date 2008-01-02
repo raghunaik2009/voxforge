@@ -12,7 +12,10 @@ If you have a headset microphone, this should be easy to do.  Your microphone sh
 
 ==Recording Levels==
 
-Now you need to test your recording levels.  
+Now you need to test your recording levels.  For help in adjusting your microphone levels, see the relevant FAQ entry:
+
+    * [http://code.google.com/p/voxforge/wiki/LinuxAdjustVolume Linux: how to adjust your microphone volume]
+    * [http://code.google.com/p/voxforge/wiki/WindowsAdjustVolume Windows: how to adjust your microphone volume]
 
 Click the "Record" button and begin speaking in your normal voice for a few seconds, and then click the "Stop" button.
 
