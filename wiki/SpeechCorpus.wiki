@@ -19,3 +19,5 @@ There are two types of Speech Copora:
     * Narratives - a person telling a story;
     * Map-tasks -  one person explains a route on a map to another;
     * Appointment-tasks - two people try to find a common meeting time based on individual schedules.
+
+© 2005-2008 !VoxForge; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
