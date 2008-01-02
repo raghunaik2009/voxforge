@@ -39,3 +39,6 @@ Try re-recording your prompt - - you might have to reduce your microphone volume
 If the waveforms in the display have been clipped off at the top or bottom, then your volume is too high.  Reduce your microphone volume, and re-record some speech.  It is better to err on the side of having a lower volume level from a speech recognition perspective - clipped speech sounds distorted.  But you also need it to be loud enough such that you can see your speech waveforms in the display (i.e. you should be able to see squiggly lines that correspond to your speech).
 
 Once you are satisfied that the volume is acceptable, try playing the file back by clicking Play .  You will likely need to adjust the Master Volume and the Wave sliders for your speakers under the 'Playback' tab in your Volume Control utility (see image above).
+
+
+© 2005-2008 !VoxForge; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
