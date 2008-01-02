@@ -1,3 +1,5 @@
+http://voxforge.googlecode.com/files/voxforge-logo.jpg
+
 To set your microphone volume in Windows you need to use the Master Volume Control utility.  This utility located in:
 
     Start>All Programs>Accessories>Entertainment>Volume Control
