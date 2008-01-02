@@ -12,7 +12,7 @@ It is up to you to decide whether you want to permit the !VoxForge Speech Submis
 
 Please be aware that by clicking the "run" button you are permitting this application to run without the security restrictions normally provided by Java.  
 
-However, the intent of this application is only to create temporary files to permit you to record your speech and upload the result to the !VoxForge server.  We don't collect any information from your PC (though there will be a log entry on the web server when you upload your file).  Once your close your browser, and your Java Run-time Environment terminates, these files will be removed from your PC.  
+However, the intent of this application is only to create temporary files to permit you to record your speech and upload the result to the !VoxForge server.  We don't collect any information from your PC (though there will be a log entry on the web server when you upload your file).  Once your close your browser, and your Java Run-time Environment terminates normally, these files will be removed from your PC.  
 
 The  good thing about Open Source software is that the [http://www.dev.voxforge.org/projects/Main/browser/Trunk/SpeechSubmission/VFSpeechSubmission/java/src/speechrecorder source code] for this application is available for review, and anyone can confirm this.
 
