@@ -35,7 +35,7 @@ If Java is working properly on your browser, when you click the link below, a ne
 
 *Windows*
   * Internet Explorer - Sun's Java download will automatically configure IE for Java.
-  * !FireFox - you need to click the white box or click the "missing plugins" button at the top right-hand corner of the page and !FireFox will guide you to download a Java Run-time environment for you PC.
+  * !FireFox - You need to click the white box or click the "missing plugins" button at the top right-hand corner of the page.  !FireFox will guide you to download a Java Run-time environment for you PC.
   * [http://www.java.com/en/download/help/enable_browser.xml Other browsers].
 
 *Linux*
