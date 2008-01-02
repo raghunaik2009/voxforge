@@ -22,7 +22,7 @@ Click the "Record" button and begin speaking in your normal voice for a few seco
 ==Volume is Just Right==
 http://voxforge.googlecode.com/files/speechsubmission-justright.jpg
 
-Look at the Black Waveform Display box.  Your voice should be loud enough so that the sections where you speak fill about one-quarter to one-half the size the height of the waveform display screen (see picture above).
+Look at the Black Waveform Display box.  Your voice should be loud enough so that the sections where you speak fill about one-quarter to one-half the size of the height of the waveform display screen (see picture above).
 
  
 ==Volume is too Loud==
