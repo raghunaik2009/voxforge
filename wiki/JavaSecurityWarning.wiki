@@ -6,19 +6,25 @@ The VoxForge Speech Submission Application is a Java Applet.  It creates tempora
 
 http://voxforge.googlecode.com/files/SecurityWarning.jpg
 
-It is up to you to decide whether you want to permit the VoxForge Speech Submission Application to run on your PC.  Please be aware that by clicking the "run" button you are permitting this application to run without the security restrictions normally provided by Java.  However, the intent of this application is only to create temporary files to permit you to record your speech and upload the result to the VoxForge server.  We don't collect any information from your PC (though there will be a log entry on the web server when you upload your file).  Once your close your browser, and your Java Run-time Environment terminates, these files will be removed from your PC.  The  good thing about Open Source software is that the source code for this application is available for review, and anyone can confirm this.
+It is up to you to decide whether you want to permit the VoxForge Speech Submission Application to run on your PC.  
+
+Please be aware that by clicking the "run" button you are permitting this application to run without the security restrictions normally provided by Java.  
+
+However, the intent of this application is only to create temporary files to permit you to record your speech and upload the result to the VoxForge server.  We don't collect any information from your PC (though there will be a log entry on the web server when you upload your file).  Once your close your browser, and your Java Run-time Environment terminates, these files will be removed from your PC.  The  good thing about Open Source software is that the source code for this application is available for review, and anyone can confirm this.
 
 ==What is Thawte?==
 
-You might be asking yourself is who is Thawte, and why should you be accepting a certificate from them?  From their Wikipedia entry:
+From their [http://en.wikipedia.org/wiki/Thawte Wikipedia] entry:
 
-    Thawte Consulting is a certificate authority (CA) for X.509 certificates. Thawte, (pronounced like "thought"), was founded in 1995 by Mark Shuttleworth in South Africa and is the second largest public CA on the Internet.
+    [http://www.thawte.com/ Thawte Consulting] is a [http://en.wikipedia.org/wiki/Certificate_authority certificate authority] (CA) for [http://en.wikipedia.org/wiki/X.509 X.509] certificates. Thawte, (pronounced like "thought"), was founded in 1995 by[http://en.wikipedia.org/wiki/Mark_Shuttleworth  Mark Shuttleworth] in South Africa and is the second largest public CA on the Internet.
 
-Thawte offers free email certificates that can be used sign Java code for use in Java Applets (Richard Dallaway's Java Web Start and Code Signing page provides the details on how this can be done).  This is why "Thawte E-mail Member" appears as the publisher on the certificate.
+Thawte offers [http://www.thawte.com/secure-email/personal-email-certificates/index.html free email certificates] that can be used sign Java code for use in Java Applets (Richard Dallaway's [http://www.dallaway.com/acad/webstart/ Java Web Start and Code Signing] page provides the details on how this can be done).  This is why "Thawte E-mail Member" appears as the publisher on the certificate.
 
-==Why read.voxforge1.org rather than www.voxforge.org? ==
+==Why voxforge.googlecode.com rather than www.voxforge.org? ==
 
-Simply because the front-end server for voxforge.org is on  a PC connected to a low-bandwidth Internet connection.  voxforge1.org is located on a webhoster's server and has a much higher bandwidth connection.  This is the same server that currently houses the VoxForge Speech Corpus.
+Simply because the front-end server for voxforge.org is on  a PC connected to a low-bandwidth Internet connection.  voxforge.googlecode.com is located on a Google server  and has a much higher bandwidth connection.  
+
+||Note: Any submitted speech gets submitted to read.voxforge1.org.  This is the same server that currently houses the [http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/ VoxForge Speech Corpus].||
 
 ==More Info==
 
@@ -34,4 +40,4 @@ And if you click "Certificate Details", you will find a line like this (after cl
 
 http://voxforge.googlecode.com/files/DetailsCertificate.jpg 
 
-This shows that the certificate, even though it has "Thawte E-mail Member" as the publisher, is registered to me: kmaclean.
+This shows that the certificate, even though it has "Thawte E-mail Member" as the publisher, is registered to me: kmaclean at [www.voxforge.org voxforge.org].
