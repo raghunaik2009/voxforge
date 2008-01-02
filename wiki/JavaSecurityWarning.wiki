@@ -20,13 +20,13 @@ The  good thing about Open Source software is that the [http://www.dev.voxforge.
 
 From their [http://en.wikipedia.org/wiki/Thawte Wikipedia] entry:
 
-    [http://www.thawte.com/ Thawte Consulting] is a [http://en.wikipedia.org/wiki/Certificate_authority certificate authority] (CA) for [http://en.wikipedia.org/wiki/X.509 X.509] certificates. Thawte, (pronounced like "thought"), was founded in 1995 by[http://en.wikipedia.org/wiki/Mark_Shuttleworth  Mark Shuttleworth] in South Africa and is the second largest public CA on the Internet.
+    [http://www.thawte.com/ Thawte Consulting] is a [http://en.wikipedia.org/wiki/Certificate_authority certificate authority] (CA) for [http://en.wikipedia.org/wiki/X.509 X.509] certificates. Thawte, (pronounced like "thought"), was founded in 1995 by [http://en.wikipedia.org/wiki/Mark_Shuttleworth  Mark Shuttleworth] in South Africa and is the second largest public CA on the Internet.
 
 Thawte offers [http://www.thawte.com/secure-email/personal-email-certificates/index.html free email certificates] that can be used sign Java code for use in Java Applets (Richard Dallaway's [http://www.dallaway.com/acad/webstart/ Java Web Start and Code Signing] page provides the details on how this can be done).  This is why "Thawte E-mail Member" appears as the publisher on the certificate.
 
 ==Why voxforge.googlecode.com rather than www.voxforge.org? ==
 
-Simply because the front-end server for [http://www.voxforge.org voxforge.org] is on  a PC connected to a low-bandwidth Internet connection.  [http://voxforge.googlecode.com voxforge.googlecode.com] is located on a Google server which has a much higher bandwidth connection.  
+Simply because the front-end server for [http://www.voxforge.org voxforge.org] is on a server connected to a low-bandwidth Internet connection.  [http://voxforge.googlecode.com voxforge.googlecode.com] is located on a Google server which has a much higher bandwidth connection.  
 
 ||Note: Any submitted speech gets uploaded to the VoxForge repository on [http://read.voxforge1.org/ read.voxforge1.org].  This is the same server that currently houses the [http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/ VoxForge Speech Corpus].||
 
