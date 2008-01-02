@@ -1,8 +1,10 @@
+http://voxforge.googlecode.com/files/voxforge-logo.jpg
+
 The SubmitSpeech page on the !VoxForge site contains a Java applet.  A Java applet is basically a Java program that runs on the Java Run-time Environment on your PC, but looks like it forms part of a web page.  Part of the start-up process for any Java applet is a check to see if the applet is going to use any resources on your PC - like accessing to your hard drive, the Internet, etc. 
 
 ==Java Security Warning Pop-up==
 
-The VoxForge Speech Submission Application is a Java Applet.  It creates temporary files on your PC to hold your audio as you record each prompt line (in addition to your responses to the form questions, and the prompts themselves) and then moves them to a zip file to be uploaded to the VoxForge server.  Because of this, the Java Run-time Environment on your PC displays a Security Warning pop-up like this:
+The !VoxForge Speech Submission Application is a Java Applet.  It creates temporary files on your PC to hold your audio as you record each prompt line (in addition to your responses to the form questions, and the prompts themselves) and then moves them to a zip file to be uploaded to the VoxForge server.  Because of this, the Java Run-time Environment on your PC displays a Security Warning pop-up like this:
 
 http://voxforge.googlecode.com/files/SecurityWarning.jpg
 
