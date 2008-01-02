@@ -8,7 +8,7 @@ http://voxforge.googlecode.com/files/voxforge-logo.jpg
 
 ==Before you Begin Recording Prompts==
 
-Position your mike so it does not pick up your breathing.  While recording, try to minimize any non-speech noises (i.e. lip smacking, taking a breath, ...) or background noise.  Don't exhale until after you have clicked the Stop button. 
+Position your microphone so it does not pick up your breathing.  While recording, try to minimize any non-speech noises (i.e. lip smacking, taking a breath, ...) or background noise.  Don't exhale until after you have clicked the Stop button. 
 
 The black box near the bottom of your screen will display the audio waveform of your recording. Please [http://code.google.com/p/voxforge/wiki/RecordingHowto record a test recording] to ensure your microphone volume is not too high or too low.
 
