@@ -1,3 +1,5 @@
+http://voxforge.googlecode.com/files/voxforge-logo.jpg
+
 ==Quiet Environment==
 
 Before you begin, you need to make sure that the room you are recording in is as quiet as possible.  In addition, make sure you turn off you speakers while recording - to avoid acoustic feedback in your audio files.
