@@ -1,5 +1,7 @@
 http://voxforge.googlecode.com/files/voxforge-logo.jpg
 
+=Linux: How to Adjust Your Microphone Volume=
+
 To set your microphone volume in Linux, you need use your distro's mixer.  To start the Gnome mixer, select:
 
     System>Preferences>Volume Control
