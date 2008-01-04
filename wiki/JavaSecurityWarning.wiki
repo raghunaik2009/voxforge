@@ -46,4 +46,4 @@ http://voxforge.googlecode.com/files/DetailsCertificate.jpg
 
 This shows that the certificate, even though it has "Thawte E-mail Member" as the publisher, is registered to me: kmaclean at [http://www.voxforge.org voxforge.org].
 
-© 2005-2008 !VoxForge; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
+© 2005-2008 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
