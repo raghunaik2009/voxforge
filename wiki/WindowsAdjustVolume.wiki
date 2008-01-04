@@ -45,4 +45,4 @@ If the waveforms in the display have been clipped off at the top or bottom, then
 Once you are satisfied that the volume is acceptable, try playing the file back by clicking Play .  You will likely need to adjust the Master Volume and the Wave sliders for your speakers in your Volume Control utility (see image above).
 
 
-© 2005-2008 !VoxForge; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
+© 2005-2008 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
