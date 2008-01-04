@@ -55,4 +55,4 @@ If Java is working properly on your browser, when you click the link below, a ne
 
     * [http://www.javatester.org/ Javatester.org]
 
-© 2005-2008 !VoxForge; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
+© 2005-2008 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
