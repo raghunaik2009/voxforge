@@ -39,4 +39,4 @@ In addition, the volume of your recording should not be so low that you have lit
 
 If this occurs, please increase your microphone volume and re-record your prompt.
 
-© 2005-2008 !VoxForge; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions] 
+© 2005-2008 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions] 
