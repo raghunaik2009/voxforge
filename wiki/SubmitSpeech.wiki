@@ -2,7 +2,7 @@
 http://voxforge.googlecode.com/files/voxforge-logo.jpg
 
 ===[http://voxforge.googlecode.com/files/SubmitSpeech-v1_0_5c.html Click here to start the Speech Submission Java Applet]=== 
-(When your browser asks you what to do with this file, tell it open the link with your Web Browser.  This link is to a HTML file that will load the Speech Submission applet to your browser)
+(This link is to an HTML file that will load the Speech Submission applet to your browser.  When your browser asks you what to do with this file, tell it open the link with your Web Browser.)
 ||[http://code.google.com/p/voxforge/wiki/JavaSecurityWarning Information on the Java Security Warning pop-up]||
 ||[http://code.google.com/p/voxforge/wiki/JavaTroubleshooting Help with Java and the Speech Submission Java Applet]||
 
