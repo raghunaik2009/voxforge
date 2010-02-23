@@ -4,4 +4,4 @@ In order to recognize speech, a Speech Recognition Engine (SRE) requires two typ
 
 An Acoustic Model, is created by taking a very large number of transcribed speech recordings (called a Speech Corpus) and 'compiling' them into statistical representations of the sounds that make up each word.
 
-© 2005-2008 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
+© 2006-2010 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
