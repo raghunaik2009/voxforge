@@ -23,4 +23,4 @@ speech audio to create decent quality Acoustic Models.  So please take the time 
 some transcribed speech to [http://www.voxforge.org/ VoxForge].  Go to the Submit Speech link for instructions on how
 to do this.
 
-© 2005-2008 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
+© 2006-2010 [http://www.voxforge.org/ VoxForge]; Legal: [http://www.voxforge.org/home/about/legal Terms and Conditions]
